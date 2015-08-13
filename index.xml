@@ -2,63 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tarek Raissi</title>
-    <link>http://localhost:1313/</link>
+    <link>raissi.github.io/</link>
     <description>Recent content on Tarek Raissi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
     <lastBuildDate>Tue, 18 Nov 2014 14:06:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Encadrement doctoral</title>
-      <link>http://localhost:1313/phd/students</link>
-      <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
-      
-      <guid>http://localhost:1313/phd/students</guid>
-      <description>
-
-&lt;h1 id=&#34;encadrement-doctoral:de354e522e3337061ca4d76bfdd32d47&#34;&gt;Encadrement doctoral&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Gaétan Videau&lt;/strong&gt;. Titre : Méthodes garanties pour l’estimation d’état et le contrôle de cohérence des
-systèmes non linéaires à temps continu. &lt;em&gt;Thèse soutenue le 17 juillet 2009&lt;/em&gt;. Durée 33.5 mois.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ramatou Seydou&lt;/strong&gt;. Titre : Contribution au développement des techniques ensemblistes pour l’estimation de l’état et des entrées des systèmes à temps continu: application à la détection de défauts. &lt;em&gt;Thèse soutenue le 3 d´ecembre 2012&lt;/em&gt;. Durée 34 mois&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Rihab El Houda Thabet&lt;/strong&gt;. Titre: Surveillance Préventive des Systèmes à Incertitudes Bornées. &lt;em&gt;Thèse soutenue le 9 décembre 2014&lt;/em&gt;. Durée 35 mois&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Lakhdar Aggoune&lt;/strong&gt;. Title: Développement de méthodes de diagnostic à base d’une approche paramétrique pour des systèmes industriels. &lt;em&gt;Soutenance prévue en septembre 2015&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Basma Yousfi&lt;/strong&gt;. Title: Contribution à l’observation et au pronostic des systèmes incertains. &lt;em&gt;Soutenance prévue en décembre 2015&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Rihab Lamouchi&lt;/strong&gt;. Titre : Commande Tolérante aux Fautes à base d’observateurs intervalles. &lt;em&gt;Thèse débutée en janvier 2014&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;master-recherche:de354e522e3337061ca4d76bfdd32d47&#34;&gt;Master Recherche&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Asma Ben Rejab&lt;/strong&gt;. Titre : Observation robuste pour des systèmes à dérivation non entière, &lt;em&gt;Mars - Juillet 2015&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ghazi BEL HAJ FREJ&lt;/strong&gt;. Titre: Etude de la diagnosticabilité des systèmes à évènements discrets. &lt;em&gt;Fev. 2012 - Sept. 2012&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jean-Pascal COBUT&lt;/strong&gt;. Titre: Méthodes ensemblistes dédiées au diagnostic. &lt;em&gt;Fev. 2009 - Juin 2009&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jean-Pierre BRIDIER&lt;/strong&gt;. Titre: Méthodes garanties pour le diagnostic des systèmes qLPV Application à la détection de pannes oscillatoires d’un A380. &lt;em&gt;Fev. 2008 - Sep. 2008&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Damien REYNAUD&lt;/strong&gt;. Titre: Estimation d’état pour des systèmes non linéaires incertains. Application au diagnostic. &lt;em&gt;Fev. 2007 - Juin 2007&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Gaétan VIDEAU&lt;/strong&gt;. Titre: Méthodes ensemblistes pour le diagnostic. &lt;em&gt;Fev. 2006 - Juin 2006&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
+    <atom:link href="raissi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>7 Common mistakes in Go and when to avoid them</title>
-      <link>http://localhost:1313/presentation/7-biggest-mistakes-in-go/</link>
+      <link>/raissi.github.io/presentation/7-biggest-mistakes-in-go/</link>
       <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/presentation/7-biggest-mistakes-in-go/</guid>
+      <guid>/raissi.github.io/presentation/7-biggest-mistakes-in-go/</guid>
       <description>
 
 &lt;p&gt;Not a generic list of programming mistakes, these are the lessons I wish I
@@ -152,10 +109,10 @@ avoid them.&lt;/p&gt;
     
     <item>
       <title>Prix &amp; responsabilités</title>
-      <link>http://localhost:1313/prix-resp/</link>
+      <link>/raissi.github.io/prix-resp/</link>
       <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/prix-resp/</guid>
+      <guid>/raissi.github.io/prix-resp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Titulaire de la Prime d’Excellence Scientifique depuis 2013&lt;/li&gt;
 &lt;li&gt;Prix du meilleur article théorique CIFA 2008 avec G. Videau&lt;/li&gt;
@@ -198,19 +155,19 @@ avoid them.&lt;/p&gt;
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>/raissi.github.io/contact/</link>
       <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>/raissi.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conférences internationales</title>
-      <link>http://localhost:1313/publications/conf</link>
+      <link>/raissi.github.io/publications/conf</link>
       <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publications/conf</guid>
+      <guid>/raissi.github.io/publications/conf</guid>
       <description>
 
 &lt;h1 id=&#34;articles-invités:b12bb71970583c53de3daa7003b0cb29&#34;&gt;Articles invités&lt;/h1&gt;
@@ -373,11 +330,54 @@ IEEE International Conference on Systems, Man and Cybernetics, IEEE/SMC’01, Tu
     </item>
     
     <item>
-      <title>Présentations aux Groupes de Travail du GDR MACS</title>
-      <link>http://localhost:1313/publications/gdr</link>
+      <title>Encadrement doctoral</title>
+      <link>/raissi.github.io/phd/students</link>
       <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publications/gdr</guid>
+      <guid>/raissi.github.io/phd/students</guid>
+      <description>
+
+&lt;h1 id=&#34;encadrement-doctoral:de354e522e3337061ca4d76bfdd32d47&#34;&gt;Encadrement doctoral&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Gaétan Videau&lt;/strong&gt;. Titre : Méthodes garanties pour l’estimation d’état et le contrôle de cohérence des
+systèmes non linéaires à temps continu. &lt;em&gt;Thèse soutenue le 17 juillet 2009&lt;/em&gt;. Durée 33.5 mois.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ramatou Seydou&lt;/strong&gt;. Titre : Contribution au développement des techniques ensemblistes pour l’estimation de l’état et des entrées des systèmes à temps continu: application à la détection de défauts. &lt;em&gt;Thèse soutenue le 3 d´ecembre 2012&lt;/em&gt;. Durée 34 mois&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Rihab El Houda Thabet&lt;/strong&gt;. Titre: Surveillance Préventive des Systèmes à Incertitudes Bornées. &lt;em&gt;Thèse soutenue le 9 décembre 2014&lt;/em&gt;. Durée 35 mois&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Lakhdar Aggoune&lt;/strong&gt;. Title: Développement de méthodes de diagnostic à base d’une approche paramétrique pour des systèmes industriels. &lt;em&gt;Soutenance prévue en septembre 2015&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Basma Yousfi&lt;/strong&gt;. Title: Contribution à l’observation et au pronostic des systèmes incertains. &lt;em&gt;Soutenance prévue en décembre 2015&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Rihab Lamouchi&lt;/strong&gt;. Titre : Commande Tolérante aux Fautes à base d’observateurs intervalles. &lt;em&gt;Thèse débutée en janvier 2014&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;master-recherche:de354e522e3337061ca4d76bfdd32d47&#34;&gt;Master Recherche&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Asma Ben Rejab&lt;/strong&gt;. Titre : Observation robuste pour des systèmes à dérivation non entière, &lt;em&gt;Mars - Juillet 2015&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ghazi BEL HAJ FREJ&lt;/strong&gt;. Titre: Etude de la diagnosticabilité des systèmes à évènements discrets. &lt;em&gt;Fev. 2012 - Sept. 2012&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jean-Pascal COBUT&lt;/strong&gt;. Titre: Méthodes ensemblistes dédiées au diagnostic. &lt;em&gt;Fev. 2009 - Juin 2009&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jean-Pierre BRIDIER&lt;/strong&gt;. Titre: Méthodes garanties pour le diagnostic des systèmes qLPV Application à la détection de pannes oscillatoires d’un A380. &lt;em&gt;Fev. 2008 - Sep. 2008&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Damien REYNAUD&lt;/strong&gt;. Titre: Estimation d’état pour des systèmes non linéaires incertains. Application au diagnostic. &lt;em&gt;Fev. 2007 - Juin 2007&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Gaétan VIDEAU&lt;/strong&gt;. Titre: Méthodes ensemblistes pour le diagnostic. &lt;em&gt;Fev. 2006 - Juin 2006&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Présentations aux Groupes de Travail du GDR MACS</title>
+      <link>/raissi.github.io/publications/gdr</link>
+      <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
+      
+      <guid>/raissi.github.io/publications/gdr</guid>
       <description>
 
 &lt;h1 id=&#34;présentations-aux-groupes-de-travail-du-gdr-macs:f50d9a460e371e63215327570bb45ee7&#34;&gt;Présentations aux Groupes de Travail du GDR MACS&lt;/h1&gt;
@@ -406,10 +406,10 @@ bornées, Groupe de Travail Identification, &lt;sup&gt;26&lt;/sup&gt;&amp;frasl;
     
     <item>
       <title>Publications</title>
-      <link>http://localhost:1313/publications</link>
+      <link>/raissi.github.io/publications</link>
       <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publications</guid>
+      <guid>/raissi.github.io/publications</guid>
       <description>
 
 &lt;h1 id=&#34;revues-internationales:480c4de99851329b51acecc000e2e84f&#34;&gt;Revues internationales&lt;/h1&gt;
@@ -521,16 +521,16 @@ Systems in a Set-Membership Context, Modeling, Design, and Simulation of Systems
     
     <item>
       <title>7 security practices you need to follow</title>
-      <link>http://localhost:1313/post/7-security-practices-you-need-to-follow</link>
+      <link>/raissi.github.io/post/7-security-practices-you-need-to-follow</link>
       <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/7-security-practices-you-need-to-follow</guid>
+      <guid>/raissi.github.io/post/7-security-practices-you-need-to-follow</guid>
       <description>
 
 &lt;p&gt;
 &lt;figure class=&#34;half right&#34;&gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/usbkey.jpg&#34;  /&gt;
+        &lt;img src=&#34;raissi.github.io/media/usbkey.jpg&#34;  /&gt;
     
     
 &lt;/figure&gt;

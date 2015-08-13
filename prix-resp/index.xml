@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prix-Resps on Tarek Raissi</title>
-    <link>http://localhost:1313/prix-resp/</link>
+    <link>raissi.github.io/prix-resp/</link>
     <description>Recent content in Prix-Resps on Tarek Raissi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
     <lastBuildDate>Tue, 18 Nov 2014 14:06:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/prix-resp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="raissi.github.io/prix-resp/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Prix &amp; responsabilités</title>
-      <link>http://localhost:1313/prix-resp/</link>
+      <link>/raissi.github.io/prix-resp/</link>
       <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/prix-resp/</guid>
+      <guid>/raissi.github.io/prix-resp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Titulaire de la Prime d’Excellence Scientifique depuis 2013&lt;/li&gt;
 &lt;li&gt;Prix du meilleur article théorique CIFA 2008 avec G. Videau&lt;/li&gt;

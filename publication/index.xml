@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Tarek Raissi</title>
-    <link>http://localhost:1313/publication/</link>
+    <link>raissi.github.io/publication/</link>
     <description>Recent content in Publications on Tarek Raissi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
     <lastBuildDate>Tue, 18 Nov 2014 14:06:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="raissi.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Conférences internationales</title>
-      <link>http://localhost:1313/publications/conf</link>
+      <link>/raissi.github.io/publications/conf</link>
       <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publications/conf</guid>
+      <guid>/raissi.github.io/publications/conf</guid>
       <description>
 
 &lt;h1 id=&#34;articles-invités:b12bb71970583c53de3daa7003b0cb29&#34;&gt;Articles invités&lt;/h1&gt;
@@ -179,10 +179,10 @@ IEEE International Conference on Systems, Man and Cybernetics, IEEE/SMC’01, Tu
     
     <item>
       <title>Présentations aux Groupes de Travail du GDR MACS</title>
-      <link>http://localhost:1313/publications/gdr</link>
+      <link>/raissi.github.io/publications/gdr</link>
       <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publications/gdr</guid>
+      <guid>/raissi.github.io/publications/gdr</guid>
       <description>
 
 &lt;h1 id=&#34;présentations-aux-groupes-de-travail-du-gdr-macs:f50d9a460e371e63215327570bb45ee7&#34;&gt;Présentations aux Groupes de Travail du GDR MACS&lt;/h1&gt;
@@ -211,10 +211,10 @@ bornées, Groupe de Travail Identification, &lt;sup&gt;26&lt;/sup&gt;&amp;frasl;
     
     <item>
       <title>Publications</title>
-      <link>http://localhost:1313/publications</link>
+      <link>/raissi.github.io/publications</link>
       <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/publications</guid>
+      <guid>/raissi.github.io/publications</guid>
       <description>
 
 &lt;h1 id=&#34;revues-internationales:480c4de99851329b51acecc000e2e84f&#34;&gt;Revues internationales&lt;/h1&gt;

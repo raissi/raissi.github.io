@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leadership on Tarek Raissi</title>
-    <link>http://localhost:1313/topics/leadership/</link>
+    <link>raissi.github.io/topics/leadership/</link>
     <description>Recent content in Leadership on Tarek Raissi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
     <lastBuildDate>Tue, 22 Dec 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/topics/leadership/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="raissi.github.io/topics/leadership/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>7 security practices you need to follow</title>
-      <link>http://localhost:1313/post/7-security-practices-you-need-to-follow</link>
+      <link>/raissi.github.io/post/7-security-practices-you-need-to-follow</link>
       <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/7-security-practices-you-need-to-follow</guid>
+      <guid>/raissi.github.io/post/7-security-practices-you-need-to-follow</guid>
       <description>
 
 &lt;p&gt;
 &lt;figure class=&#34;half right&#34;&gt;
     
-        &lt;img src=&#34;http://localhost:1313/media/usbkey.jpg&#34;  /&gt;
+        &lt;img src=&#34;raissi.github.io/media/usbkey.jpg&#34;  /&gt;
     
     
 &lt;/figure&gt;
