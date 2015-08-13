@@ -1,0 +1,66 @@
+.grispanel .panel-body {
+		background-color: #eee;
+	}
+	.sidebar-about {
+	  margin-bottom: 10px;
+
+	}
+	p {
+	  margin: 0 0 10.5px;
+	}
+	h4, .h4 {
+	  font-size: 19px;
+	  font-weight: 300;
+	  font-family: 'Roboto',sans-serif;
+	}
+
+	.navbar {
+	  font-weight: 500;
+	  font-size: inherit;
+	  background-color: #FFF;
+	  margin-bottom: 35px;
+	  border: none;
+	}
+	.nav li a {
+	  font-family: 'Roboto',sans-serif;
+	}
+	.navbar-nav li {
+	  font-variant: small-caps;
+	  font-size: 15pt;
+	  font-weight: bold;
+	  line-height: 69px;
+	}
+
+	.dropdown-menu li{
+		line-height: 37px;
+	}
+	.dropdown-menu>li>a {
+		display: block;
+	}
+	#social, .dropdown {
+		display: inline !important;
+	}
+
+	.navbar-brand {
+		padding-top: 9.5px;
+	}
+
+	.nav .dropdown-menu li a{
+	  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	}
+	body { padding-top: 70px; }
+
+	.students h1 {
+		font-size: 2.625em;
+		line-height: 1.14286em;
+		margin: 0em 0 0.5em;
+		text-transform: capitalize;
+		text-align: center
+	}
+	.students h1 {
+        margin: 0.25em 0 0.5em
+    }
+
+		.blue{
+			color: #4582ec;
+		}

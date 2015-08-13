@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+    <meta charset="utf-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="description" content="">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<meta name="keywords" content="Development, Leadership, Systems, security, ">
+
+ 
+<meta property="og:type" content="article"/>
+<meta property="og:description" content=""/>
+<meta property="og:title" content="7 security practices you need to follow : spf13.com"/>
+<meta property="og:site_name" content="spf13 is Steve Francia"/>
+<meta property="og:image" content="" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="" />
+<meta property="og:image:height" content="" />
+<meta property="og:url" content="http://localhost:1313/post/7-security-practices-you-need-to-follow">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2009-12-22"/>
+<meta property="article:modified_time" content="2009-12-22"/>
+
+
+
+<meta property="article:tag" content="Development">
+<meta property="article:tag" content="Leadership">
+<meta property="article:tag" content="Systems">
+<meta property="article:tag" content="security">
+
+
+
+
+<meta name="twitter:card" content="summary">
+
+<meta name="twitter:title" content="7 security practices you need to follow : Tarek Raissi">
+
+<meta name="twitter:description" content="">
+<meta name="twitter:image:src" content="">
+<meta name="twitter:domain" content="raissi.fr">
+
+
+    <base href="http://localhost:1313/">
+    <title> 7 security practices you need to follow - Tarek Raissi </title>
+    <link rel="canonical" href="http://localhost:1313/post/7-security-practices-you-need-to-follow">
+    
+
+    <link href='http://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://localhost:1313/static/css/style.css">
+
+<link rel="stylesheet" href="http://localhost:1313/static/css/to-choose/bootstrap-readable.css"> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+  
+<link rel="stylesheet" href="http://localhost:1313/static/css/custom.css">  
+    <link rel="shortcut icon" href="http://localhost:1313/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png" />
+</head>
+
+<body lang="en" itemscope itemtype="http://schema.org/Article">
+
+
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+				<span class="sr-only">Toggle Navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="#"><img src="http://localhost:1313/static/img/logo_CNAM.gif" alt="Tech Made Plain" width="178" height="45"></a>
+		</div>
+		<div class="collapse navbar-collapse navbar-ex1-collapse">
+			<ul class="nav navbar-nav">
+
+			<li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+        					Recherche
+        					<span class="caret"></span>
+        				</a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://localhost:1313/publications/">Publications</a></li>
+                  
+                  <li><a href="http://localhost:1313/phd/students">Encadrement doctoral</a></li>
+				          
+				          <li><a href="http://localhost:1313/publications/conf">Conférences internationales</a></li>
+									<li><a href="http://localhost:1313/publications/gdr">Présentations</a></li>
+
+                </ul>
+      </li>
+
+
+
+			<li><a href="http://localhost:1313/teaching/">Enseignement</a></li>
+			<li><a href="http://localhost:1313/prix-resp/">Prix & responsabilités</a></li>
+			<li><a href="http://localhost:1313/contact/">Contact</a></li>
+			<li><a href="#">Biographie</a></li>
+
+			</ul>
+		</div>
+	</div>
+</nav>
+
+
+
+
+
+<div class="container">
+	
+	<div class="row">
+		<div class="col-md-8">
+			<h1 itemprop="name" id="title">7 security practices you need to follow</h1>
+			<div>
+				<article itemprop="articleBody" id="content">
+				   
+
+<p>
+<figure class="half right">
+    
+        <img src="http://localhost:1313/media/usbkey.jpg"  />
+    
+    
+</figure>
+
+</p>
+
+<p>Some of this may seem like a broken record, yet every single time you
+hear about a bank losing millions of customer data, or a company having
+a <a href="http://en.wikipedia.org/wiki/Computer_security" title="Computer security">security
+breach</a>
+they consistently have failed to implement and enforce the most basic
+security practices. Here are 7 simple security practices that you cannot
+afford to not follow.</p>
+
+<h3 id="1-secure-pass-phrases:f358ebdcd31933f8cdcc7d2db902d14b">1. Secure pass phrases</h3>
+
+<p>Throw away the notion of
+a <a href="http://en.wikipedia.org/wiki/Password" title="Password">password</a>. Pass
+phrases consisting of multiple words and symbols are considerably more
+secure and easy to remember. Most people use the same password for
+everything and it’s almost always a word or a word+#. A good <a href="http://en.wikipedia.org/wiki/Passphrase" title="Passphrase">pass
+phrase</a> can be
+something like “Mary.had.@.little.Lamb”. It’s really easy to remember
+and nearly impossible to guess or brute force. Using a password
+management system like One Password for Mac is also a good idea.</p>
+
+<h3 id="2-educate-your-users:f358ebdcd31933f8cdcc7d2db902d14b">2. Educate your users</h3>
+
+<p>All too often policies are put into place but lacking training necessary
+to ensure that policies are understood and followed. Quarterly web casts
+can go a long way to ensuring that the most critical policies are
+complied with without adding unnecessary disruptions to the business.</p>
+
+<h3 id="3-perform-regulatory-compliance-http-en-wikipedia-org-wiki-regulatory-compliance-regulatory-compliance-self-audits:f358ebdcd31933f8cdcc7d2db902d14b">3. Perform <a href="http://en.wikipedia.org/wiki/Regulatory_compliance" title="Regulatory compliance">regulatory compliance</a> self audits</h3>
+
+<p>Hackers are attempting to break into your systems right now. If you
+aren’t holding self audits than the only ones auditing your systems are
+the hackers. It’s critical that this practice takes place routinely to
+ensure that your data and systems are as safe as possible. It only takes
+one small mistake to make you vulnerable. Routine system checking means
+there is a chance you will find it before someone else does.</p>
+
+<h3 id="4-access-provided-on-a-needs-to-have-basis:f358ebdcd31933f8cdcc7d2db902d14b">4. Access provided on a needs to have basis</h3>
+
+<p>Yes this is inconvenient. Yes you need to do it. Firewalls, ACL, fine
+grained permissions. Properly setup roles. In every system you do use,
+in every level. This also means that root/admin permission should always
+be behind sudo and never logged in.</p>
+
+<h3 id="5-encrypt-all-sensitive-data:f358ebdcd31933f8cdcc7d2db902d14b">5. Encrypt all sensitive data</h3>
+
+<p>All sensitive data should be encrypted. Hard drives should be encrypted;
+Tunnels should be encrypted using
+SSH, <a href="http://en.wikipedia.org/wiki/Virtual_private_network" title="Virtual private network">VPN</a>
+or SSL; Wireless networks and even wireless keyboards. Passwords should
+be stored via a one
+way <a href="http://en.wikipedia.org/wiki/Encryption" title="Encryption">encryption</a>
+like md5.</p>
+
+<h3 id="6-never-take-data-off-site-flash-drives-laptops-etc:f358ebdcd31933f8cdcc7d2db902d14b">6. Never take data off site (flash drives, laptops, etc)</h3>
+
+<p>It seems every time you hear about a bank or government agency losing
+millions of critical identity information a portable drive or laptop is
+involved. While encryption is part of the solution here, it could
+entirely be avoided if sensitive data is not permitted off site. Data
+should reside on servers sitting behind properly established ACL and not
+be available to be copied or transferred onto a laptop or portable
+drive.</p>
+
+<h3 id="7-use-common-sense:f358ebdcd31933f8cdcc7d2db902d14b">7. Use common sense</h3>
+
+<p>Lastly, the most important security principle is to use common sense. If
+it seems wrong, it probably is. Common sense is your best defense. Use
+it wisely.</p>
+
+<h2 id="related-articles:f358ebdcd31933f8cdcc7d2db902d14b">Related articles</h2>
+
+<ul>
+<li><a href="http://abusiveviews.wordpress.com/2009/11/01/data-security-in-simple-terms/">Data Security in Simple
+Terms</a>
+(abusiveviews.wordpress.com)</li>
+<li><a href="http://techie-buzz.com/tips-and-tricks/protect-your-important-and-personal-data.html?utm_source=subscriber&amp;utm_medium=rss&amp;utm_campaign=rss">Protect Your Important and Personal
+Data</a>
+(techie-buzz.com)</li>
+<li><a href="http://www.crunchgear.com/2009/10/08/secure-your-data-with-encrypted-usb-drives/">Secure your data with encrypted USB
+drives</a>
+(crunchgear.com)</li>
+<li><a href="http://www.socialmediatoday.com/SMC/122938">Lawyers should leave their laptops at home when traveling
+abroad</a>(socialmediatoday.com)</li>
+<li><a href="http://owencutajar.com/protect-your-data/">Protect your data</a>
+(owencutajar.com)</li>
+</ul>
+
+				</article>
+			</div>
+		</div>
+		<div class="col-md-1">
+		
+		</div>
+		<div class="col-md-3">
+			<div class="sidebar-about">
+			<div class="panel-body">
+
+				<img src="http://localhost:1313/static/img/tarek_raissi.jpeg" class="img-rounded img-responsive" style="float:left; margin-right:10px;" alt="Cinque Terre" width="100" height="130">
+				<p>
+				Professeur des Universités <br/>
+
+				Conservatoire National des Arts et Métiers<br/>
+
+
+				Département d’Electronique, Automatique et SYstèmes (EASY)<br/>
+
+				Chercheur au Centre d’Etude et De Recherche en Informatique et Communication (CEDRIC)<br/>
+				</p>
+			</div>
+	</div>
+
+
+
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h4>Recent articles</h4>
+			</div>
+			<div class="panel-body">
+				
+					<span class="glyphicon glyphicon-hand-right"></span> <a href="http://localhost:1313/phd/students">Encadrement doctoral </a><br/>
+				
+					<span class="glyphicon glyphicon-hand-right"></span> <a href="http://localhost:1313/presentation/7-biggest-mistakes-in-go/">7 Common mistakes in Go and when to avoid them </a><br/>
+				
+					<span class="glyphicon glyphicon-hand-right"></span> <a href="http://localhost:1313/prix-resp/">Prix &amp; responsabilités </a><br/>
+				
+					
+				
+					<span class="glyphicon glyphicon-hand-right"></span> <a href="http://localhost:1313/publications/conf">Conférences internationales </a><br/>
+				
+					<span class="glyphicon glyphicon-hand-right"></span> <a href="http://localhost:1313/publications/gdr">Présentations aux Groupes de Travail du GDR MACS </a><br/>
+				
+					<span class="glyphicon glyphicon-hand-right"></span> <a href="http://localhost:1313/publications">Publications </a><br/>
+				
+					<span class="glyphicon glyphicon-hand-right"></span> <a href="http://localhost:1313/post/7-security-practices-you-need-to-follow">7 security practices you need to follow </a><br/>
+				
+			</div>
+		</div>
+		
+
+		</div>
+	</div>
+	
+</div>
+
+
+
+<aside id="meta">
+
+    <div>
+        <section id="datecount">
+          <h4 id="date"> Tue Dec 22, 2009 </h4>
+          <h5 id="wc"> 600 Words </h5>
+          <h5 id="readtime"> Read in about 3 Min </h5>
+        </section>
+        <ul id="categories">
+          
+            <li><a href="http://localhost:1313//topics/development">Development</a> </li>
+          
+            <li><a href="http://localhost:1313//topics/leadership">Leadership</a> </li>
+          
+            <li><a href="http://localhost:1313//topics/systems">Systems</a> </li>
+          
+        </ul>
+        <ul id="tags">
+          
+            <li> <a href="http://localhost:1313//tags/security">security</a> </li>
+          
+        </ul>
+    </div>
+
+    <div>
+        <section id="prev">
+            &nbsp;<a class="previous" href="http://localhost:1313/publications"><i class="icon-arrow-left"></i> Publications</a><br>
+        </section><section id="next">
+            &nbsp;
+        </section>
+    </div>
+
+</aside>
+
+<meta itemprop="wordCount" content="506">
+<meta itemprop="datePublished" content="2009-12-22">
+<meta itemprop="url" content="http://localhost:1313/post/7-security-practices-you-need-to-follow">
+
+
+
+
+<footer>
+  <div>
+    <p>
+    &copy; 2015 <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <span itemprop="name">Tarek Raissi.</span></span>
+    <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons Attribution">Some rights reserved</a>
+    <br/>
+    Powered by <a href="http://gohugo.io">Hugo</a>.
+    </p>
+  </div>
+</footer>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-7131036-1', 'raissi.fr');
+  ga('require', 'linkid', 'linkid.js');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
+</html>
+

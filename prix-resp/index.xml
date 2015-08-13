@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prix-Resps on Tarek Raissi</title>
+    <link>http://localhost:1313/prix-resp/</link>
+    <description>Recent content in Prix-Resps on Tarek Raissi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 18 Nov 2014 14:06:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/prix-resp/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Prix &amp; responsabilités</title>
+      <link>http://localhost:1313/prix-resp/</link>
+      <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/prix-resp/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Titulaire de la Prime d’Excellence Scientifique depuis 2013&lt;/li&gt;
+&lt;li&gt;Prix du meilleur article théorique CIFA 2008 avec G. Videau&lt;/li&gt;
+&lt;li&gt;Prix de la Meilleure Thèse d’Automatique 2003-2005 du GDR MACS&lt;/li&gt;
+&lt;li&gt;Prix du meilleur article de session, American Control Conference, ACC’2010.&lt;/li&gt;
+&lt;li&gt;Membre du comit´e technique d’IFAC TC 1.1 ”Modelling, Identification and Signal Processing”&lt;/li&gt;
+&lt;li&gt;Membre de ”Action Group on Interval Methods, IEEE Technical Committee on Computational Aspects of Control System Design”&lt;/li&gt;
+&lt;li&gt;Membre sénior IEEE&lt;/li&gt;
+&lt;li&gt;Co-organisateur (avec Vicenç Puig &amp;amp; Christophe Combastel) du numéro spécial ”Set-membership Methods Applied to FDI and FTC” à paraître dans la revue ”International Journal of Adaptive Control and Signal Processing”&lt;/li&gt;
+&lt;li&gt;Membre du comité éditorial des revues ”American Journal of Applied Mathematics” &amp;amp; ”American Journal of Aerospace Engineering”&lt;/li&gt;
+&lt;li&gt;Membre du comité national d’organisation de la conférence ”IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes - 9th SAFEPROCESS 2015”, Paris&lt;/li&gt;
+&lt;li&gt;Membre du comité d’organisation de la conférence ”International Conference on Systems, Analysis and Automatic Control”, Barcelone, 2014&lt;/li&gt;
+&lt;li&gt;Membre du comité d’organisation du ”6th International Workshop on Verification and Evaluation of Computer and Communication Systems”, Paris, 2012&lt;/li&gt;
+&lt;li&gt;Editeur associé pour la conférence 8th IFAC Symposium on Nonlinear Control Systems (NOLCOS’2010), Bologne, Italie&lt;/li&gt;
+&lt;li&gt;Organisateur de la session invitée ”Set-membership state and parameter estimation for nonlinear systems”, 8th IFAC Symposium on Nonlinear Control Systems (NOLCOS’2010), Bologne, Italie&lt;/li&gt;
+&lt;li&gt;Organisateur de la session invitée ”Fault Detection and Isolation based on set-membership techniques”, 7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS’2009), Barcelone, Espagne&lt;/li&gt;
+&lt;li&gt;Co-organisateur de la session invitée ”Robust diagnosis based on set-membership techniques”, 18th IFAC World Congress Milan, Italie&lt;/li&gt;
+&lt;li&gt;Co-organisateur de la session invitée ”Robust estimation of uncertain systems”, 51st IEEE Conference on Decision and Control, Maui, Hawaii, 2012&lt;/li&gt;
+&lt;li&gt;Co-organisateur de la session invitée ”Interval estimation of uncertain systems”, 52nd IEEE Conference on Decision and Control, Florence, Italie, 2013&lt;/li&gt;
+&lt;li&gt;Co-organisateur de la session invitée ”Set-membership-based techniques for robust diagnosis - I” 7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS’2015), Paris, France.&lt;/li&gt;
+&lt;li&gt;Co-organisateur de la session invitée ”Set-membership-based techniques for robust diagnosis - II” 7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS’2015), Paris, France&lt;/li&gt;
+&lt;li&gt;Co-président de la session ”Robust diagnosis based on set-membership techniques”, 18th IFAC World Congress Milan, Italie&lt;/li&gt;
+&lt;li&gt;Président de la session ”Set-membership state and parameter estimation for nonlinear systems”, 8th IFAC Symposium on Nonlinear Control Systems, Bologna, Italy, 2010&lt;/li&gt;
+&lt;li&gt;Président de la session ”Nonlinear Systems I”, European Control Conference, Budapest, Hongrie, 2009&lt;/li&gt;
+&lt;li&gt;Président de la session ”Fault Detection and Isolation based on set-membership techniques”, SAFEPROCESS’2009, Barcelone, Espagne&lt;/li&gt;
+&lt;li&gt;Expert pour l’école doctorale de ”Polytechnic University of Catalonia”&lt;/li&gt;
+&lt;li&gt;Evaluateur pour la plupart des revues de référence en Automatique : Automatica, IEEE Transactions on Automatic Control, Annual Reviews of Control, European Journal of Control, International Journal of Adaptive Control and Signal Processing, Signal Processing, International Journal of Applied Mathematics and Computer Science, International Journal of Modelling, Identification and Control, Circuits Systems and Signal Processing, International Journal of Control, Journal of Process Control, JESA&lt;/li&gt;
+&lt;li&gt;Membre du Conseil du Laboratoire Cedric du Cnam&lt;/li&gt;
+&lt;li&gt;Responsable du Mastère spécialisé (label de la Conférence des Grandes Ecoles) ”Systèmes Mécatroniques et Robotiques”, Cnam&lt;/li&gt;
+&lt;li&gt;Responsable du diplôme d’ingénieur Génie Industriel, Cnam&lt;/li&gt;
+&lt;li&gt;Membre du Conseil du département Génie Electrique et Informatique Industrielle de l’IUT Bordeaux 1, 2008-2011&lt;/li&gt;
+&lt;li&gt;Directeur des études au département Génie Electrique et Informatique Industrielle de l’IUT Bordeaux 1, 2007-2009&lt;/li&gt;
+&lt;li&gt;Membre d’un comité de sélection pour le recrutement d’un MCF en 61ème section, Université de Bordeaux : 61 MCF 550 (2015)&lt;/li&gt;
+&lt;li&gt;Membre d’un comité de sélection pour le recrutement d’un MCF en 61ème section, UHP, Nancy. Poste: 61-MCF-0040 (2012)&lt;/li&gt;
+&lt;li&gt;Membre d’un comité de sélection pour le recrutement d’un MCF en 61ème section, UHP, Nancy. Poste: 61-MCF-0213 (2011)&lt;/li&gt;
+&lt;li&gt;Membre d’un comité de sélection pour le recrutement d’un MCF en 61-63 èmes sections, IPB. Poste: 6163-MCF-0134 (2011)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

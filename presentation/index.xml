@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations on Tarek Raissi</title>
+    <link>http://localhost:1313/presentation/</link>
+    <description>Recent content in Presentations on Tarek Raissi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 18 Nov 2014 14:06:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/presentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>7 Common mistakes in Go and when to avoid them</title>
+      <link>http://localhost:1313/presentation/7-biggest-mistakes-in-go/</link>
+      <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/presentation/7-biggest-mistakes-in-go/</guid>
+      <description>
+
+&lt;p&gt;Not a generic list of programming mistakes, these are the lessons I wish I
+learned earlier while developing Go. I&amp;rsquo;ve spent the past two years developing
+some of the most popular libraries and applications written in Go. I&amp;rsquo;ve also
+made a lot of mistakes along the way. Recognizing that &amp;ldquo;The only real mistake
+is the one from which we learn nothing. -John Powell&amp;rdquo;, I would like to share
+with you the mistakes that I have made over my journey with Go and when you can
+avoid them.&lt;/p&gt;
+
+&lt;p&gt;Originally given in NYC Nov 14 at &lt;a href=&#34;http://gothamgo.com&#34;&gt;GothamGo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;embed slideshare&#34;&gt;
+&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/41716887?rel=0&#34; width=&#34;599&#34; height=&#34;487&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;transcript:ebfb1b22ca9b8d166af5634b47d7bcca&#34;&gt;Transcript&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;7 Common Mistakes In Go and when to avoid them&lt;/li&gt;
+&lt;li&gt;@Spf13 Author of Hugo, Cobra, Afero, Viper &amp;amp; more&lt;/li&gt;
+&lt;li&gt;“As long as the world is turning and spinning, we&amp;rsquo;re gonna be dizzy and we&amp;rsquo;re gonna make mistakes.” –Mel Brooks&lt;/li&gt;
+&lt;li&gt;“Appreciate your mistakes for what they are: precious life lessons that can only be learned the hard way. “ –Al Franken&lt;/li&gt;
+&lt;li&gt;“If I had to live my life again, I&amp;rsquo;d make the same mistakes, only sooner.” – Tallulah Bankhead&lt;/li&gt;
+&lt;li&gt;7 Lessons I Wish I Learned Sooner&lt;/li&gt;
+&lt;li&gt;Mistake 1: Not Accepting Interfaces&lt;/li&gt;
+&lt;li&gt;State &amp;amp; Behavior •Types can express state &amp;amp; behavior •State = data structure •Behavior = methods&lt;/li&gt;
+&lt;li&gt;Interfaces •One of Go’s most powerful features •Permits extensibility •Defined by methods •Adherance is only satisfied by behavior&lt;/li&gt;
+&lt;li&gt;Example : []Byte type Source struct { Frontmatter []byte Content []byte }&lt;/li&gt;
+&lt;li&gt;Func Restricted To String func StripHTML(s string) string { output := &amp;ldquo;&amp;rdquo; // Shortcut strings with no tags in them if !strings.ContainsAny(s, &amp;ldquo;&amp;lt;&amp;gt;&amp;ldquo;) { output = s } else { s = strings.Replace(s, &amp;ldquo;n&amp;rdquo;, &amp;ldquo; &amp;ldquo;, -1) s = strings.Replace(s, &amp;ldquo;&lt;/p&gt;&amp;rdquo;, &amp;ldquo;n&amp;rdquo;, -1) s = strings.Replace(s, &amp;ldquo;&lt;br&gt;&amp;rdquo;, &amp;ldquo;n&amp;rdquo;, -1) s = strings.Replace(s, &amp;ldquo;&lt;br /&gt;&amp;rdquo;, &amp;ldquo;n&amp;rdquo;, -1) …&lt;/li&gt;
+&lt;li&gt;Passes Implementation Details Down The Stack func (p *Page) Plain() string { return helpers.StripHTML(string(p.Content)) }&lt;/li&gt;
+&lt;li&gt;Any Read() Works func StripHTML(r Reader) string { buf := new(bytes.Buffer) buf.ReadFrom&amp;reg; by := buf.Bytes() if bytes.ContainsAny(s, []byte(&amp;rdquo;&amp;lt;&amp;gt;&amp;ldquo;)) { by = bytes.Replace(by, []byte(&amp;ldquo;n&amp;rdquo;), &amp;ldquo; &amp;ldquo;, -1) by = bytes.Replace(by, []byte(&amp;rdquo;&lt;/p&gt;&amp;rdquo;), &amp;ldquo;n&amp;rdquo;, -1) by = bytes.Replace(by, []byte(&amp;rdquo;&lt;br&gt;&amp;rdquo;), &amp;ldquo;n&amp;rdquo;, -1) by = bytes.Replace(by, []byte(&amp;rdquo;&lt;br /&gt;&amp;rdquo;), &amp;ldquo;n&amp;rdquo;, -1) …&lt;/li&gt;
+&lt;li&gt;type Source struct { Frontmatter []byte content []byte } type Reader interface { Read(p []byte) (n int, err error) } func (s *Source) Content() (Reader) { return bytes.NewReader(content) } Example : Read&lt;/li&gt;
+&lt;li&gt;type Source struct { Frontmatter []byte content []byte } type Reader interface { Read(p []byte) (n int, err error) } func (s *Source) Content() (Reader) { return bytes.NewReader(content) } Example : Read&lt;/li&gt;
+&lt;li&gt;type Source struct { Frontmatter []byte content []byte } type Reader interface { Read(p []byte) (n int, err error) } func (s *Source) Content() (Reader) { return bytes.NewReader(content) } Example : Read&lt;/li&gt;
+&lt;li&gt;func (p *Page) Plain() string { return helpers.StripHTML(p.Content()) } Implementation Details Abstracted With A Method&lt;/li&gt;
+&lt;li&gt;Mistake 2: Thinking Of Errors As Strings&lt;/li&gt;
+&lt;li&gt;Error Is An Interface type error interface { Error() string }&lt;/li&gt;
+&lt;li&gt;Standard Errors •errors.New(“error here”) is usually sufficient •Exported Error Variables can be easily checked&lt;/li&gt;
+&lt;li&gt;Custom Errors •Can provide context to guarantee consistent feedback •Provide a type which can be different from the error value •Can provide dynamic values (based on internal error state)&lt;/li&gt;
+&lt;li&gt;func NewPage(name string) (p *Page, err error) { if len(name) == 0 { return nil, errors.New(&amp;ldquo;Zero length page name&amp;rdquo;) } Standard Error&lt;/li&gt;
+&lt;li&gt;Exported Error Var var ErrNoName = errors.New(&amp;ldquo;Zero length page name&amp;rdquo;) func NewPage(name string) (*Page, error) { if len(name) == 0 { return nil, ErrNoName }&lt;/li&gt;
+&lt;li&gt;Exported Error Var var ErrNoName = errors.New(&amp;ldquo;Zero length page name&amp;rdquo;) func Foo(name string) (error) { err := NewPage(&amp;ldquo;bar&amp;rdquo;) if err == ErrNoName { newPage(&amp;ldquo;default&amp;rdquo;) } else { log.FatalF(err) } }&lt;/li&gt;
+&lt;li&gt;Custom Errors : Os // Portable analogs of some common system call errors. var ErrInvalid = errors.New(&amp;ldquo;invalid argument&amp;rdquo;) var ErrPermission = errors.New(&amp;ldquo;permission denied&amp;rdquo;) // PathError records an error and // the operation and file path that caused it. type PathError struct { Op string Path string Err error } func (e *PathError) Error() string { return e.Op + &amp;ldquo; &amp;rdquo; + e.Path + &amp;ldquo;: &amp;ldquo; + e.Err.Error() }&lt;/li&gt;
+&lt;li&gt;Custom Errors : Os // Portable analogs of some common system call errors. var ErrInvalid = errors.New(&amp;ldquo;invalid argument&amp;rdquo;) var ErrPermission = errors.New(&amp;ldquo;permission denied&amp;rdquo;) // PathError records an error and // the operation and file path that caused it. type PathError struct { Op string Path string Err error } func (e *PathError) Error() string { return e.Op + &amp;ldquo; &amp;rdquo; + e.Path + &amp;ldquo;: &amp;ldquo; + e.Err.Error() }&lt;/li&gt;
+&lt;li&gt;Custom Errors : Os func (f *File) WriteAt(b []byte, off int64) (n int, err error) { if f == nil { return 0, ErrInvalid } for len(b) &amp;gt; 0 { m, e := f.pwrite(b, off) if e != nil { err = &amp;amp;PathError{&amp;ldquo;write&amp;rdquo;, f.name, e} break } n += m b = b[m:] off += int64(m) } return }&lt;/li&gt;
+&lt;li&gt;Custom Errors : Os func (f *File) WriteAt(b []byte, off int64) (n int, err error) { if f == nil { return 0, ErrInvalid } for len(b) &amp;gt; 0 { m, e := f.pwrite(b, off) if e != nil { err = &amp;amp;PathError{&amp;ldquo;write&amp;rdquo;, f.name, e} break } n += m b = b[m:] off += int64(m) } return }&lt;/li&gt;
+&lt;li&gt;Custom Errors : Os func (f *File) WriteAt(b []byte, off int64) (n int, err error) { if f == nil { return 0, ErrInvalid } for len(b) &amp;gt; 0 { m, e := f.pwrite(b, off) if e != nil { err = &amp;amp;PathError{&amp;ldquo;write&amp;rdquo;, f.name, e} break } n += m b = b[m:] off += int64(m) } return }&lt;/li&gt;
+&lt;li&gt;Custom Errors : Os func baa(f *file) error { … n, err := f.WriteAt(x, 3) if _, ok := err.(*PathError) { … } else { log.Fatalf(err) } }&lt;/li&gt;
+&lt;li&gt;Custom Errors : Os … if serr != nil { if serr, ok := serr.(*PathError); ok &amp;amp;&amp;amp; serr.Err == syscall.ENOTDIR { return nil } return serr …&lt;/li&gt;
+&lt;li&gt;Custom Errors : Os … if serr != nil { if serr, ok := serr.(*PathError); ok &amp;amp;&amp;amp; serr.Err == syscall.ENOTDIR { return nil } return serr …&lt;/li&gt;
+&lt;li&gt;Mistake 3: Requring Broad Interfaces&lt;/li&gt;
+&lt;li&gt;Interfaces Are Composable •Functions should only accept interfaces that require the methods they need •Functions should not accept a broad interface when a narrow one would work •Compose broad interfaces made from narrower ones&lt;/li&gt;
+&lt;li&gt;Composing Interfaces type File interface { io.Closer io.Reader io.ReaderAt io.Seeker io.Writer io.WriterAt }&lt;/li&gt;
+&lt;li&gt;Requiring Broad Interfaces func ReadIn(f File) { b := []byte{} n, err := f.Read(b) &amp;hellip; }&lt;/li&gt;
+&lt;li&gt;Composing Interfaces type File interface { io.Closer io.Reader io.ReaderAt io.Seeker io.Writer io.WriterAt }&lt;/li&gt;
+&lt;li&gt;Requiring Narrow Interfaces func ReadIn(r Reader) { b := []byte{} n, err := r.Read(b) &amp;hellip; }&lt;/li&gt;
+&lt;li&gt;Mistake 4: Methods Vs Functions&lt;/li&gt;
+&lt;li&gt;Too Many Methods •A lot of people from OO backgrounds overuse methods •Natural draw to define everything via structs and methods&lt;/li&gt;
+&lt;li&gt;What Is A Function? •Operations performed on N1 inputs that results in N2 outputs •The same inputs will always result in the same outputs •Functions should not depend on state&lt;/li&gt;
+&lt;li&gt;What Is A Method? •Defines the behavior of a type •A function that operates against a value •Should use state •Logically connected&lt;/li&gt;
+&lt;li&gt;Functions Can Be Used With Interfaces •Methods, by definition, are bound to a specific type •Functions can accept interfaces as input&lt;/li&gt;
+&lt;li&gt;Example From Hugo func extractShortcodes(s string, p *Page, t Template) (string, map[string]shortcode, error) { &amp;hellip; for { switch currItem.typ { &amp;hellip; case tError: err := fmt.Errorf(&amp;ldquo;%s:%d: %s&amp;rdquo;, p.BaseFileName(), (p.lineNumRawContentStart() + pt.lexer.lineNum() - 1), currItem) } } &amp;hellip; }&lt;/li&gt;
+&lt;li&gt;Example From Hugo func extractShortcodes(s string, p *Page, t Template) (string, map[string]shortcode, error) { &amp;hellip; for { switch currItem.typ { &amp;hellip; case tError: err := fmt.Errorf(&amp;ldquo;%s:%d: %s&amp;rdquo;, p.BaseFileName(), (p.lineNumRawContentStart() + pt.lexer.lineNum() - 1), currItem) } } &amp;hellip; }&lt;/li&gt;
+&lt;li&gt;Mistake 5: Pointers Vs Values&lt;/li&gt;
+&lt;li&gt;Pointers Vs Values •It’s not a question of performance (generally), but one of shared access •If you want to share the value with a function or method, then use a pointer •If you don’t want to share it, then use a value (copy)&lt;/li&gt;
+&lt;li&gt;Pointer Receivers •If you want to share a value with it’s method, use a pointer receiver •Since methods commonly manage state, this is the common usage •Not safe for concurrent access&lt;/li&gt;
+&lt;li&gt;Value Receivers •If you want the value copied (not shared), use values •If the type is an empty struct (stateless, just behavior)… then just use value •Safe for concurrent access&lt;/li&gt;
+&lt;li&gt;Afero File type InMemoryFile struct { at int64 name string data []byte closed bool } func (f *InMemoryFile) Close() error { atomic.StoreInt64(&amp;amp;f.at, 0) f.closed = true return nil }&lt;/li&gt;
+&lt;li&gt;type Time struct { sec int64 nsec uintptr loc *Location } func (t Time) IsZero() bool { return t.sec == 0 &amp;amp;&amp;amp; t.nsec == 0 } Time&lt;/li&gt;
+&lt;li&gt;Mistake 6: Not Using Io.Reader &amp;amp; Io.Writer&lt;/li&gt;
+&lt;li&gt;Io.Reader &amp;amp; Io.Writer •Simple &amp;amp; flexible interfaces for many operations around input and output •Provides access to a huge wealth of functionality •Keeps operations extensible&lt;/li&gt;
+&lt;li&gt;Io.Reader &amp;amp; Io.Writer type Reader interface { Read(p []byte) (n int, err error) } type Writer interface { Write(p []byte) (n int, err error) }&lt;/li&gt;
+&lt;li&gt;func (page *Page) saveSourceAs(path string) { b := new(bytes.Buffer) b.Write(page.Source.Content) page.saveSource(b.Bytes(), path) } func (page *Page) saveSource(by []byte, inpath string) { WriteToDisk(inpath, bytes.NewReader(by)) } Stop Doing This!!&lt;/li&gt;
+&lt;li&gt;func (page *Page) saveSourceAs(path string) { b := new(bytes.Buffer) b.Write(page.Source.Content) page.saveSource(b.Bytes(), path) } func (page *Page) saveSource(by []byte, inpath string) { WriteToDisk(inpath, bytes.NewReader(by)) } Stop Doing This!!&lt;/li&gt;
+&lt;li&gt;func (page *Page) saveSourceAs(path string) { b := new(bytes.Buffer) b.Write(page.Source.Content) page.saveSource(b.Bytes(), path) } func (page *Page) saveSource(by []byte, inpath string) { WriteToDisk(inpath, bytes.NewReader(by)) } Stop Doing This!! &lt;a href=&#34;https://github.com/spf13/hugo/blob/master/hugolib/page.go#L582&#34;&gt;https://github.com/spf13/hugo/blob/master/hugolib/page.go#L582&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;func (page *Page) saveSourceAs(path string) { b := new(bytes.Buffer) b.Write(page.Source.Content) page.saveSource(b, path) } func (page *Page) saveSource(b io.Reader, inpath string) { WriteToDisk(inpath, b) } Instead&lt;/li&gt;
+&lt;li&gt;Mistake 7: Ignoring Concurrent Access&lt;/li&gt;
+&lt;li&gt;Consider Concurrency •If you provide a library someone will use it concurrently •Data structures are not safe for concurrent access •Values aren’t safe, you need to create safe behavior around them&lt;/li&gt;
+&lt;li&gt;Making It Safe •Sync package provides behavior to make a value safe (Atomic/ Mutex) •Channels cordinate values across go routines by permitting one go routine to access at a time&lt;/li&gt;
+&lt;li&gt;Maps Are Not Safe func (m *MMFs) Create(name string) (File, error) { m.getData()[name] = MemFileCreate(name) m.registerDirs(m.getData()[name]) return m.getData()[name], nil }&lt;/li&gt;
+&lt;li&gt;Maps Are Not Safe func (m *MMFS) Create(name string) (File, error) { m.getData()[name] = MemFileCreate(name) m.registerDirs(m.getData()[name]) return m.getData()[name], nil }&lt;/li&gt;
+&lt;li&gt;Maps Are Not Safe panic: runtime error: invalid memory address or nil pointer dereference [signal 0xb code=0x1 addr=0x28 pc=0x1691a7] goroutine 90 [running]: runtime.panic(0x501ea0, 0x86b104) /usr/local/Cellar/go/1.3.3/libexec/src/pkg/runtime/ panic.c:279 +0xf5 github.com/spf13/afero. (*MemMapFs).registerDirs(0xc208000860, 0x0, 0x0) /Users/spf13/gopath/src/github.com/spf13/afero/ memmap.go:88 +0x27&lt;/li&gt;
+&lt;li&gt;Maps Can Be Used Safely func (m *MMFS) Create(name string) (File, error) { m.lock() m.getData()[name] = MemFileCreate(name) m.unlock() m.registerDirs(m.getData()[name]) return m.getData()[name], nil }&lt;/li&gt;
+&lt;li&gt;Biggsest Mistake: Not Makimg Mistakes&lt;/li&gt;
+&lt;li&gt;@Spf13 Author of Hugo, Cobra, Afero, Viper &amp;amp; more&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

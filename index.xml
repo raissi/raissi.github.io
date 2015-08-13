@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tarek Raissi</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Tarek Raissi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 18 Nov 2014 14:06:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Encadrement doctoral</title>
+      <link>http://localhost:1313/phd/students</link>
+      <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/phd/students</guid>
+      <description>
+
+&lt;h1 id=&#34;encadrement-doctoral:de354e522e3337061ca4d76bfdd32d47&#34;&gt;Encadrement doctoral&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Gaétan Videau&lt;/strong&gt;. Titre : Méthodes garanties pour l’estimation d’état et le contrôle de cohérence des
+systèmes non linéaires à temps continu. &lt;em&gt;Thèse soutenue le 17 juillet 2009&lt;/em&gt;. Durée 33.5 mois.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ramatou Seydou&lt;/strong&gt;. Titre : Contribution au développement des techniques ensemblistes pour l’estimation de l’état et des entrées des systèmes à temps continu: application à la détection de défauts. &lt;em&gt;Thèse soutenue le 3 d´ecembre 2012&lt;/em&gt;. Durée 34 mois&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Rihab El Houda Thabet&lt;/strong&gt;. Titre: Surveillance Préventive des Systèmes à Incertitudes Bornées. &lt;em&gt;Thèse soutenue le 9 décembre 2014&lt;/em&gt;. Durée 35 mois&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Lakhdar Aggoune&lt;/strong&gt;. Title: Développement de méthodes de diagnostic à base d’une approche paramétrique pour des systèmes industriels. &lt;em&gt;Soutenance prévue en septembre 2015&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Basma Yousfi&lt;/strong&gt;. Title: Contribution à l’observation et au pronostic des systèmes incertains. &lt;em&gt;Soutenance prévue en décembre 2015&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Rihab Lamouchi&lt;/strong&gt;. Titre : Commande Tolérante aux Fautes à base d’observateurs intervalles. &lt;em&gt;Thèse débutée en janvier 2014&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;master-recherche:de354e522e3337061ca4d76bfdd32d47&#34;&gt;Master Recherche&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Asma Ben Rejab&lt;/strong&gt;. Titre : Observation robuste pour des systèmes à dérivation non entière, &lt;em&gt;Mars - Juillet 2015&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ghazi BEL HAJ FREJ&lt;/strong&gt;. Titre: Etude de la diagnosticabilité des systèmes à évènements discrets. &lt;em&gt;Fev. 2012 - Sept. 2012&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jean-Pascal COBUT&lt;/strong&gt;. Titre: Méthodes ensemblistes dédiées au diagnostic. &lt;em&gt;Fev. 2009 - Juin 2009&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jean-Pierre BRIDIER&lt;/strong&gt;. Titre: Méthodes garanties pour le diagnostic des systèmes qLPV Application à la détection de pannes oscillatoires d’un A380. &lt;em&gt;Fev. 2008 - Sep. 2008&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Damien REYNAUD&lt;/strong&gt;. Titre: Estimation d’état pour des systèmes non linéaires incertains. Application au diagnostic. &lt;em&gt;Fev. 2007 - Juin 2007&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Gaétan VIDEAU&lt;/strong&gt;. Titre: Méthodes ensemblistes pour le diagnostic. &lt;em&gt;Fev. 2006 - Juin 2006&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>7 Common mistakes in Go and when to avoid them</title>
+      <link>http://localhost:1313/presentation/7-biggest-mistakes-in-go/</link>
+      <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/presentation/7-biggest-mistakes-in-go/</guid>
+      <description>
+
+&lt;p&gt;Not a generic list of programming mistakes, these are the lessons I wish I
+learned earlier while developing Go. I&amp;rsquo;ve spent the past two years developing
+some of the most popular libraries and applications written in Go. I&amp;rsquo;ve also
+made a lot of mistakes along the way. Recognizing that &amp;ldquo;The only real mistake
+is the one from which we learn nothing. -John Powell&amp;rdquo;, I would like to share
+with you the mistakes that I have made over my journey with Go and when you can
+avoid them.&lt;/p&gt;
+
+&lt;p&gt;Originally given in NYC Nov 14 at &lt;a href=&#34;http://gothamgo.com&#34;&gt;GothamGo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;embed slideshare&#34;&gt;
+&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/41716887?rel=0&#34; width=&#34;599&#34; height=&#34;487&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;transcript:ebfb1b22ca9b8d166af5634b47d7bcca&#34;&gt;Transcript&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;7 Common Mistakes In Go and when to avoid them&lt;/li&gt;
+&lt;li&gt;@Spf13 Author of Hugo, Cobra, Afero, Viper &amp;amp; more&lt;/li&gt;
+&lt;li&gt;“As long as the world is turning and spinning, we&amp;rsquo;re gonna be dizzy and we&amp;rsquo;re gonna make mistakes.” –Mel Brooks&lt;/li&gt;
+&lt;li&gt;“Appreciate your mistakes for what they are: precious life lessons that can only be learned the hard way. “ –Al Franken&lt;/li&gt;
+&lt;li&gt;“If I had to live my life again, I&amp;rsquo;d make the same mistakes, only sooner.” – Tallulah Bankhead&lt;/li&gt;
+&lt;li&gt;7 Lessons I Wish I Learned Sooner&lt;/li&gt;
+&lt;li&gt;Mistake 1: Not Accepting Interfaces&lt;/li&gt;
+&lt;li&gt;State &amp;amp; Behavior •Types can express state &amp;amp; behavior •State = data structure •Behavior = methods&lt;/li&gt;
+&lt;li&gt;Interfaces •One of Go’s most powerful features •Permits extensibility •Defined by methods •Adherance is only satisfied by behavior&lt;/li&gt;
+&lt;li&gt;Example : []Byte type Source struct { Frontmatter []byte Content []byte }&lt;/li&gt;
+&lt;li&gt;Func Restricted To String func StripHTML(s string) string { output := &amp;ldquo;&amp;rdquo; // Shortcut strings with no tags in them if !strings.ContainsAny(s, &amp;ldquo;&amp;lt;&amp;gt;&amp;ldquo;) { output = s } else { s = strings.Replace(s, &amp;ldquo;n&amp;rdquo;, &amp;ldquo; &amp;ldquo;, -1) s = strings.Replace(s, &amp;ldquo;&lt;/p&gt;&amp;rdquo;, &amp;ldquo;n&amp;rdquo;, -1) s = strings.Replace(s, &amp;ldquo;&lt;br&gt;&amp;rdquo;, &amp;ldquo;n&amp;rdquo;, -1) s = strings.Replace(s, &amp;ldquo;&lt;br /&gt;&amp;rdquo;, &amp;ldquo;n&amp;rdquo;, -1) …&lt;/li&gt;
+&lt;li&gt;Passes Implementation Details Down The Stack func (p *Page) Plain() string { return helpers.StripHTML(string(p.Content)) }&lt;/li&gt;
+&lt;li&gt;Any Read() Works func StripHTML(r Reader) string { buf := new(bytes.Buffer) buf.ReadFrom&amp;reg; by := buf.Bytes() if bytes.ContainsAny(s, []byte(&amp;rdquo;&amp;lt;&amp;gt;&amp;ldquo;)) { by = bytes.Replace(by, []byte(&amp;ldquo;n&amp;rdquo;), &amp;ldquo; &amp;ldquo;, -1) by = bytes.Replace(by, []byte(&amp;rdquo;&lt;/p&gt;&amp;rdquo;), &amp;ldquo;n&amp;rdquo;, -1) by = bytes.Replace(by, []byte(&amp;rdquo;&lt;br&gt;&amp;rdquo;), &amp;ldquo;n&amp;rdquo;, -1) by = bytes.Replace(by, []byte(&amp;rdquo;&lt;br /&gt;&amp;rdquo;), &amp;ldquo;n&amp;rdquo;, -1) …&lt;/li&gt;
+&lt;li&gt;type Source struct { Frontmatter []byte content []byte } type Reader interface { Read(p []byte) (n int, err error) } func (s *Source) Content() (Reader) { return bytes.NewReader(content) } Example : Read&lt;/li&gt;
+&lt;li&gt;type Source struct { Frontmatter []byte content []byte } type Reader interface { Read(p []byte) (n int, err error) } func (s *Source) Content() (Reader) { return bytes.NewReader(content) } Example : Read&lt;/li&gt;
+&lt;li&gt;type Source struct { Frontmatter []byte content []byte } type Reader interface { Read(p []byte) (n int, err error) } func (s *Source) Content() (Reader) { return bytes.NewReader(content) } Example : Read&lt;/li&gt;
+&lt;li&gt;func (p *Page) Plain() string { return helpers.StripHTML(p.Content()) } Implementation Details Abstracted With A Method&lt;/li&gt;
+&lt;li&gt;Mistake 2: Thinking Of Errors As Strings&lt;/li&gt;
+&lt;li&gt;Error Is An Interface type error interface { Error() string }&lt;/li&gt;
+&lt;li&gt;Standard Errors •errors.New(“error here”) is usually sufficient •Exported Error Variables can be easily checked&lt;/li&gt;
+&lt;li&gt;Custom Errors •Can provide context to guarantee consistent feedback •Provide a type which can be different from the error value •Can provide dynamic values (based on internal error state)&lt;/li&gt;
+&lt;li&gt;func NewPage(name string) (p *Page, err error) { if len(name) == 0 { return nil, errors.New(&amp;ldquo;Zero length page name&amp;rdquo;) } Standard Error&lt;/li&gt;
+&lt;li&gt;Exported Error Var var ErrNoName = errors.New(&amp;ldquo;Zero length page name&amp;rdquo;) func NewPage(name string) (*Page, error) { if len(name) == 0 { return nil, ErrNoName }&lt;/li&gt;
+&lt;li&gt;Exported Error Var var ErrNoName = errors.New(&amp;ldquo;Zero length page name&amp;rdquo;) func Foo(name string) (error) { err := NewPage(&amp;ldquo;bar&amp;rdquo;) if err == ErrNoName { newPage(&amp;ldquo;default&amp;rdquo;) } else { log.FatalF(err) } }&lt;/li&gt;
+&lt;li&gt;Custom Errors : Os // Portable analogs of some common system call errors. var ErrInvalid = errors.New(&amp;ldquo;invalid argument&amp;rdquo;) var ErrPermission = errors.New(&amp;ldquo;permission denied&amp;rdquo;) // PathError records an error and // the operation and file path that caused it. type PathError struct { Op string Path string Err error } func (e *PathError) Error() string { return e.Op + &amp;ldquo; &amp;rdquo; + e.Path + &amp;ldquo;: &amp;ldquo; + e.Err.Error() }&lt;/li&gt;
+&lt;li&gt;Custom Errors : Os // Portable analogs of some common system call errors. var ErrInvalid = errors.New(&amp;ldquo;invalid argument&amp;rdquo;) var ErrPermission = errors.New(&amp;ldquo;permission denied&amp;rdquo;) // PathError records an error and // the operation and file path that caused it. type PathError struct { Op string Path string Err error } func (e *PathError) Error() string { return e.Op + &amp;ldquo; &amp;rdquo; + e.Path + &amp;ldquo;: &amp;ldquo; + e.Err.Error() }&lt;/li&gt;
+&lt;li&gt;Custom Errors : Os func (f *File) WriteAt(b []byte, off int64) (n int, err error) { if f == nil { return 0, ErrInvalid } for len(b) &amp;gt; 0 { m, e := f.pwrite(b, off) if e != nil { err = &amp;amp;PathError{&amp;ldquo;write&amp;rdquo;, f.name, e} break } n += m b = b[m:] off += int64(m) } return }&lt;/li&gt;
+&lt;li&gt;Custom Errors : Os func (f *File) WriteAt(b []byte, off int64) (n int, err error) { if f == nil { return 0, ErrInvalid } for len(b) &amp;gt; 0 { m, e := f.pwrite(b, off) if e != nil { err = &amp;amp;PathError{&amp;ldquo;write&amp;rdquo;, f.name, e} break } n += m b = b[m:] off += int64(m) } return }&lt;/li&gt;
+&lt;li&gt;Custom Errors : Os func (f *File) WriteAt(b []byte, off int64) (n int, err error) { if f == nil { return 0, ErrInvalid } for len(b) &amp;gt; 0 { m, e := f.pwrite(b, off) if e != nil { err = &amp;amp;PathError{&amp;ldquo;write&amp;rdquo;, f.name, e} break } n += m b = b[m:] off += int64(m) } return }&lt;/li&gt;
+&lt;li&gt;Custom Errors : Os func baa(f *file) error { … n, err := f.WriteAt(x, 3) if _, ok := err.(*PathError) { … } else { log.Fatalf(err) } }&lt;/li&gt;
+&lt;li&gt;Custom Errors : Os … if serr != nil { if serr, ok := serr.(*PathError); ok &amp;amp;&amp;amp; serr.Err == syscall.ENOTDIR { return nil } return serr …&lt;/li&gt;
+&lt;li&gt;Custom Errors : Os … if serr != nil { if serr, ok := serr.(*PathError); ok &amp;amp;&amp;amp; serr.Err == syscall.ENOTDIR { return nil } return serr …&lt;/li&gt;
+&lt;li&gt;Mistake 3: Requring Broad Interfaces&lt;/li&gt;
+&lt;li&gt;Interfaces Are Composable •Functions should only accept interfaces that require the methods they need •Functions should not accept a broad interface when a narrow one would work •Compose broad interfaces made from narrower ones&lt;/li&gt;
+&lt;li&gt;Composing Interfaces type File interface { io.Closer io.Reader io.ReaderAt io.Seeker io.Writer io.WriterAt }&lt;/li&gt;
+&lt;li&gt;Requiring Broad Interfaces func ReadIn(f File) { b := []byte{} n, err := f.Read(b) &amp;hellip; }&lt;/li&gt;
+&lt;li&gt;Composing Interfaces type File interface { io.Closer io.Reader io.ReaderAt io.Seeker io.Writer io.WriterAt }&lt;/li&gt;
+&lt;li&gt;Requiring Narrow Interfaces func ReadIn(r Reader) { b := []byte{} n, err := r.Read(b) &amp;hellip; }&lt;/li&gt;
+&lt;li&gt;Mistake 4: Methods Vs Functions&lt;/li&gt;
+&lt;li&gt;Too Many Methods •A lot of people from OO backgrounds overuse methods •Natural draw to define everything via structs and methods&lt;/li&gt;
+&lt;li&gt;What Is A Function? •Operations performed on N1 inputs that results in N2 outputs •The same inputs will always result in the same outputs •Functions should not depend on state&lt;/li&gt;
+&lt;li&gt;What Is A Method? •Defines the behavior of a type •A function that operates against a value •Should use state •Logically connected&lt;/li&gt;
+&lt;li&gt;Functions Can Be Used With Interfaces •Methods, by definition, are bound to a specific type •Functions can accept interfaces as input&lt;/li&gt;
+&lt;li&gt;Example From Hugo func extractShortcodes(s string, p *Page, t Template) (string, map[string]shortcode, error) { &amp;hellip; for { switch currItem.typ { &amp;hellip; case tError: err := fmt.Errorf(&amp;ldquo;%s:%d: %s&amp;rdquo;, p.BaseFileName(), (p.lineNumRawContentStart() + pt.lexer.lineNum() - 1), currItem) } } &amp;hellip; }&lt;/li&gt;
+&lt;li&gt;Example From Hugo func extractShortcodes(s string, p *Page, t Template) (string, map[string]shortcode, error) { &amp;hellip; for { switch currItem.typ { &amp;hellip; case tError: err := fmt.Errorf(&amp;ldquo;%s:%d: %s&amp;rdquo;, p.BaseFileName(), (p.lineNumRawContentStart() + pt.lexer.lineNum() - 1), currItem) } } &amp;hellip; }&lt;/li&gt;
+&lt;li&gt;Mistake 5: Pointers Vs Values&lt;/li&gt;
+&lt;li&gt;Pointers Vs Values •It’s not a question of performance (generally), but one of shared access •If you want to share the value with a function or method, then use a pointer •If you don’t want to share it, then use a value (copy)&lt;/li&gt;
+&lt;li&gt;Pointer Receivers •If you want to share a value with it’s method, use a pointer receiver •Since methods commonly manage state, this is the common usage •Not safe for concurrent access&lt;/li&gt;
+&lt;li&gt;Value Receivers •If you want the value copied (not shared), use values •If the type is an empty struct (stateless, just behavior)… then just use value •Safe for concurrent access&lt;/li&gt;
+&lt;li&gt;Afero File type InMemoryFile struct { at int64 name string data []byte closed bool } func (f *InMemoryFile) Close() error { atomic.StoreInt64(&amp;amp;f.at, 0) f.closed = true return nil }&lt;/li&gt;
+&lt;li&gt;type Time struct { sec int64 nsec uintptr loc *Location } func (t Time) IsZero() bool { return t.sec == 0 &amp;amp;&amp;amp; t.nsec == 0 } Time&lt;/li&gt;
+&lt;li&gt;Mistake 6: Not Using Io.Reader &amp;amp; Io.Writer&lt;/li&gt;
+&lt;li&gt;Io.Reader &amp;amp; Io.Writer •Simple &amp;amp; flexible interfaces for many operations around input and output •Provides access to a huge wealth of functionality •Keeps operations extensible&lt;/li&gt;
+&lt;li&gt;Io.Reader &amp;amp; Io.Writer type Reader interface { Read(p []byte) (n int, err error) } type Writer interface { Write(p []byte) (n int, err error) }&lt;/li&gt;
+&lt;li&gt;func (page *Page) saveSourceAs(path string) { b := new(bytes.Buffer) b.Write(page.Source.Content) page.saveSource(b.Bytes(), path) } func (page *Page) saveSource(by []byte, inpath string) { WriteToDisk(inpath, bytes.NewReader(by)) } Stop Doing This!!&lt;/li&gt;
+&lt;li&gt;func (page *Page) saveSourceAs(path string) { b := new(bytes.Buffer) b.Write(page.Source.Content) page.saveSource(b.Bytes(), path) } func (page *Page) saveSource(by []byte, inpath string) { WriteToDisk(inpath, bytes.NewReader(by)) } Stop Doing This!!&lt;/li&gt;
+&lt;li&gt;func (page *Page) saveSourceAs(path string) { b := new(bytes.Buffer) b.Write(page.Source.Content) page.saveSource(b.Bytes(), path) } func (page *Page) saveSource(by []byte, inpath string) { WriteToDisk(inpath, bytes.NewReader(by)) } Stop Doing This!! &lt;a href=&#34;https://github.com/spf13/hugo/blob/master/hugolib/page.go#L582&#34;&gt;https://github.com/spf13/hugo/blob/master/hugolib/page.go#L582&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;func (page *Page) saveSourceAs(path string) { b := new(bytes.Buffer) b.Write(page.Source.Content) page.saveSource(b, path) } func (page *Page) saveSource(b io.Reader, inpath string) { WriteToDisk(inpath, b) } Instead&lt;/li&gt;
+&lt;li&gt;Mistake 7: Ignoring Concurrent Access&lt;/li&gt;
+&lt;li&gt;Consider Concurrency •If you provide a library someone will use it concurrently •Data structures are not safe for concurrent access •Values aren’t safe, you need to create safe behavior around them&lt;/li&gt;
+&lt;li&gt;Making It Safe •Sync package provides behavior to make a value safe (Atomic/ Mutex) •Channels cordinate values across go routines by permitting one go routine to access at a time&lt;/li&gt;
+&lt;li&gt;Maps Are Not Safe func (m *MMFs) Create(name string) (File, error) { m.getData()[name] = MemFileCreate(name) m.registerDirs(m.getData()[name]) return m.getData()[name], nil }&lt;/li&gt;
+&lt;li&gt;Maps Are Not Safe func (m *MMFS) Create(name string) (File, error) { m.getData()[name] = MemFileCreate(name) m.registerDirs(m.getData()[name]) return m.getData()[name], nil }&lt;/li&gt;
+&lt;li&gt;Maps Are Not Safe panic: runtime error: invalid memory address or nil pointer dereference [signal 0xb code=0x1 addr=0x28 pc=0x1691a7] goroutine 90 [running]: runtime.panic(0x501ea0, 0x86b104) /usr/local/Cellar/go/1.3.3/libexec/src/pkg/runtime/ panic.c:279 +0xf5 github.com/spf13/afero. (*MemMapFs).registerDirs(0xc208000860, 0x0, 0x0) /Users/spf13/gopath/src/github.com/spf13/afero/ memmap.go:88 +0x27&lt;/li&gt;
+&lt;li&gt;Maps Can Be Used Safely func (m *MMFS) Create(name string) (File, error) { m.lock() m.getData()[name] = MemFileCreate(name) m.unlock() m.registerDirs(m.getData()[name]) return m.getData()[name], nil }&lt;/li&gt;
+&lt;li&gt;Biggsest Mistake: Not Makimg Mistakes&lt;/li&gt;
+&lt;li&gt;@Spf13 Author of Hugo, Cobra, Afero, Viper &amp;amp; more&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prix &amp; responsabilités</title>
+      <link>http://localhost:1313/prix-resp/</link>
+      <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/prix-resp/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Titulaire de la Prime d’Excellence Scientifique depuis 2013&lt;/li&gt;
+&lt;li&gt;Prix du meilleur article théorique CIFA 2008 avec G. Videau&lt;/li&gt;
+&lt;li&gt;Prix de la Meilleure Thèse d’Automatique 2003-2005 du GDR MACS&lt;/li&gt;
+&lt;li&gt;Prix du meilleur article de session, American Control Conference, ACC’2010.&lt;/li&gt;
+&lt;li&gt;Membre du comit´e technique d’IFAC TC 1.1 ”Modelling, Identification and Signal Processing”&lt;/li&gt;
+&lt;li&gt;Membre de ”Action Group on Interval Methods, IEEE Technical Committee on Computational Aspects of Control System Design”&lt;/li&gt;
+&lt;li&gt;Membre sénior IEEE&lt;/li&gt;
+&lt;li&gt;Co-organisateur (avec Vicenç Puig &amp;amp; Christophe Combastel) du numéro spécial ”Set-membership Methods Applied to FDI and FTC” à paraître dans la revue ”International Journal of Adaptive Control and Signal Processing”&lt;/li&gt;
+&lt;li&gt;Membre du comité éditorial des revues ”American Journal of Applied Mathematics” &amp;amp; ”American Journal of Aerospace Engineering”&lt;/li&gt;
+&lt;li&gt;Membre du comité national d’organisation de la conférence ”IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes - 9th SAFEPROCESS 2015”, Paris&lt;/li&gt;
+&lt;li&gt;Membre du comité d’organisation de la conférence ”International Conference on Systems, Analysis and Automatic Control”, Barcelone, 2014&lt;/li&gt;
+&lt;li&gt;Membre du comité d’organisation du ”6th International Workshop on Verification and Evaluation of Computer and Communication Systems”, Paris, 2012&lt;/li&gt;
+&lt;li&gt;Editeur associé pour la conférence 8th IFAC Symposium on Nonlinear Control Systems (NOLCOS’2010), Bologne, Italie&lt;/li&gt;
+&lt;li&gt;Organisateur de la session invitée ”Set-membership state and parameter estimation for nonlinear systems”, 8th IFAC Symposium on Nonlinear Control Systems (NOLCOS’2010), Bologne, Italie&lt;/li&gt;
+&lt;li&gt;Organisateur de la session invitée ”Fault Detection and Isolation based on set-membership techniques”, 7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS’2009), Barcelone, Espagne&lt;/li&gt;
+&lt;li&gt;Co-organisateur de la session invitée ”Robust diagnosis based on set-membership techniques”, 18th IFAC World Congress Milan, Italie&lt;/li&gt;
+&lt;li&gt;Co-organisateur de la session invitée ”Robust estimation of uncertain systems”, 51st IEEE Conference on Decision and Control, Maui, Hawaii, 2012&lt;/li&gt;
+&lt;li&gt;Co-organisateur de la session invitée ”Interval estimation of uncertain systems”, 52nd IEEE Conference on Decision and Control, Florence, Italie, 2013&lt;/li&gt;
+&lt;li&gt;Co-organisateur de la session invitée ”Set-membership-based techniques for robust diagnosis - I” 7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS’2015), Paris, France.&lt;/li&gt;
+&lt;li&gt;Co-organisateur de la session invitée ”Set-membership-based techniques for robust diagnosis - II” 7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS’2015), Paris, France&lt;/li&gt;
+&lt;li&gt;Co-président de la session ”Robust diagnosis based on set-membership techniques”, 18th IFAC World Congress Milan, Italie&lt;/li&gt;
+&lt;li&gt;Président de la session ”Set-membership state and parameter estimation for nonlinear systems”, 8th IFAC Symposium on Nonlinear Control Systems, Bologna, Italy, 2010&lt;/li&gt;
+&lt;li&gt;Président de la session ”Nonlinear Systems I”, European Control Conference, Budapest, Hongrie, 2009&lt;/li&gt;
+&lt;li&gt;Président de la session ”Fault Detection and Isolation based on set-membership techniques”, SAFEPROCESS’2009, Barcelone, Espagne&lt;/li&gt;
+&lt;li&gt;Expert pour l’école doctorale de ”Polytechnic University of Catalonia”&lt;/li&gt;
+&lt;li&gt;Evaluateur pour la plupart des revues de référence en Automatique : Automatica, IEEE Transactions on Automatic Control, Annual Reviews of Control, European Journal of Control, International Journal of Adaptive Control and Signal Processing, Signal Processing, International Journal of Applied Mathematics and Computer Science, International Journal of Modelling, Identification and Control, Circuits Systems and Signal Processing, International Journal of Control, Journal of Process Control, JESA&lt;/li&gt;
+&lt;li&gt;Membre du Conseil du Laboratoire Cedric du Cnam&lt;/li&gt;
+&lt;li&gt;Responsable du Mastère spécialisé (label de la Conférence des Grandes Ecoles) ”Systèmes Mécatroniques et Robotiques”, Cnam&lt;/li&gt;
+&lt;li&gt;Responsable du diplôme d’ingénieur Génie Industriel, Cnam&lt;/li&gt;
+&lt;li&gt;Membre du Conseil du département Génie Electrique et Informatique Industrielle de l’IUT Bordeaux 1, 2008-2011&lt;/li&gt;
+&lt;li&gt;Directeur des études au département Génie Electrique et Informatique Industrielle de l’IUT Bordeaux 1, 2007-2009&lt;/li&gt;
+&lt;li&gt;Membre d’un comité de sélection pour le recrutement d’un MCF en 61ème section, Université de Bordeaux : 61 MCF 550 (2015)&lt;/li&gt;
+&lt;li&gt;Membre d’un comité de sélection pour le recrutement d’un MCF en 61ème section, UHP, Nancy. Poste: 61-MCF-0040 (2012)&lt;/li&gt;
+&lt;li&gt;Membre d’un comité de sélection pour le recrutement d’un MCF en 61ème section, UHP, Nancy. Poste: 61-MCF-0213 (2011)&lt;/li&gt;
+&lt;li&gt;Membre d’un comité de sélection pour le recrutement d’un MCF en 61-63 èmes sections, IPB. Poste: 6163-MCF-0134 (2011)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conférences internationales</title>
+      <link>http://localhost:1313/publications/conf</link>
+      <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/publications/conf</guid>
+      <description>
+
+&lt;h1 id=&#34;articles-invités:b12bb71970583c53de3daa7003b0cb29&#34;&gt;Articles invités&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;B. Yousfi, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, M. Amairi and M. Aoun, Set-membership methodology for model-based systems
+prognosis, 9th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes
+(SafeProcess 2015), September 2-4, 2015, Paris, France.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, W. Perruquetti, A. Zolghadri, Estimation and Control of Discrete-Time LPV
+Systems Using Interval Observers, 52nd IEEE Conference on Decision and Control, December 10-13,
+2013, Florence, Italy.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;S. Chebotarev, D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, On Interval Observer Design for a Class of
+Continuous-Time LPV Systems, 9th IFAC Symposium on Nonlinear Control Systems, (NOLCOS’2013),
+Toulouse.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, Stanislav Chebotarev, A. Zolghadri, On Set-Membership Observer Design for
+a Class of Nonlinear Time-Varying Systems, CDC’2012, Maui, Hawaii.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;R. Seydou, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, D. Efimov, C. Combastel, Robust Fault Diagnosis with Interval
+Continuous-time Parity Equations, Fault Detection, 8th IFAC Symposium On Fault Detection,
+Supervision and Safety for Technical Processes (Safeprocess’2012), Mexico.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;H. Rios, D. Efimov, J. Davila, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, L. Fridman, A. Zolghadri, State Estimation and Fault
+Detection for Linear Switched Systems with Unstable Internal Dynamics, 8th IFAC Symposium On
+Fault Detection, Supervision and Safety for Technical Processes (Safeprocess’2012), Mexico.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;D. Efimov, L. Fridman, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, R. Seydou, Application of Interval Observers and
+HOSM Differentiators for Fault Detection, 8th IFAC Symposium On Fault Detection, Supervision and
+Safety for Technical Processes (Safeprocess’2012), Mexico.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;H. Rios, D. Efimov, J. Davila, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, L. Fridman, A. Zolghadri, State Estimation for Linear
+Switched Systems with Unknown Inputs, 4th IFAC conference on Analysis and Design of Hybrid
+Systems (ADHS’2012), June 6-8, 2012, Eindhoven, The Netherlands.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;R. Seydou, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, D. Henry, Change detection in flat systems by constraint satisfaction
+techniques, IFAC-WC’2011.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Robust fault detection based on adaptive set observers, SysTol’10.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Monotone adaptive set observers for nonlinear continuous-time
+systems, NOLCOS’10.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, D. Efimov, A. Zolghadri, Robust state and parameter estimation for nonlinear continuoustime
+systems. Application to fault detection, 16th European Conference on Mathematics for Industry
+2010, ECMI’2010.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;G. Videau, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Set-observer design for consistency checks of nonlinear systems,
+SAFEPROCESS’09, July 2009.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, N. Ramdani, Y. Candau, Robust nonlinear continuous-time state estimation using interval
+Taylor models, invited session, ROCOND’06.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;articles-réguliers:b12bb71970583c53de3daa7003b0cb29&#34;&gt;Articles réguliers&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;B. Yousfi, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, M. Amairi and M. Aoun, Interval Observers Design for Singularly Perturbed Systems,
+53rd IEEE Conference on Decision and Control, December 15-17, 2014. Los Angeles, California,
+USA.&lt;/li&gt;
+&lt;li&gt;D. Gucik-Derigny, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Interval State and Unknown Inputs Estimation for Linear
+Time-Invariant Systems, IFAC-WC’2014, August 24-29, 2014, Cape Town, South Africa, Strasbourg.&lt;/li&gt;
+&lt;li&gt;R.H. Thabet, C. Combastel, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Set-membership fault detection under noisy
+environment in aircraft control surface servo-loops, IFAC-WC’2014, August 24-29, 2014, Cape Town,
+South Africa, Strasbourg.&lt;/li&gt;
+&lt;li&gt;R.H. Thabet, C. Combastel, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, N. Ramdani, A. Zolghadri, Computing Reachable Sets For
+Nonlinear Systems In Presence Of Bounded Uncertainties, European Control Conference, (ECC’2014),
+Strasbourg.&lt;/li&gt;
+&lt;li&gt;R.H. Thabet, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, C. Combastel, A. Zolghadri, Interval Observers Design for LPV systems with
+additive disturbances, European Control Conference, (ECC’2013), Zurich, Suisse.&lt;/li&gt;
+&lt;li&gt;D. Efimov, W. Perruquetti, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, On Interval Observer Design for Time-Invariant
+Discrete-Time Systems, European Control Conference, (ECC’2013), Zurich, Suisse.&lt;/li&gt;
+&lt;li&gt;D. Efimov, L. Fridman, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, R. Seydou, Set-Membership Estimation Improvement
+Applying HOSM Differentiators, ACC’2012, Montreal, Canada.&lt;/li&gt;
+&lt;li&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Stabilization of nonlinear uncertain systems based on interval
+observers, CDC-ECC’2011, Orlando, FL, USA.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, D. Efimov, A. Zolghadri, Reliable amplitude and frequency estimation for biased and noisy
+signals - Application to oscillatory failures detection, European Conference for AeroSpace Sciences,
+EUCASS’2011, Saint-Petersburg, Russia&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;R. Seydou, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Robust State Estimation for Flat Systems Using Set-Membership
+Techniques, IFAC-WC’2011.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;D. Efimov, A. Zolghadri, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, Hybrid unknown input observer for actuator fault detection and
+compensation, IFAC-WC’2011.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;R. Seydou, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, D. Henry, Fault detection in flat systems by constraint satisfaction
+and input monitoring, ACD’10.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Adaptive Set Observers Design For Fault Detection And Diagnosis,
+MED’10.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;G. Videau, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Tests de cohérence pour des systèmes non linéaires à temps continu
+par observateurs intervalles, CIFA’10.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;F. Khemane, R. Malti, X. Moreau, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, M. Thomassin, Comparison between two set membership
+methods for frequency domain system identification using fractional models, ACC’10.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;G. Videau, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Guaranteed state estimation for nonlinear continuous-time systems
+based on qLPV transformations, ECC’09, August 2009.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;R. Malti, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, M. Thomassin, F. Khemane, Parameter estimation of fractional models, FDA2008,
+Novembre 2008.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;G. Videau, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Contrôle de cohérence paramétrique des systèmes non linéaires à
+temps continu par satisfaction de contraintes, CIFA 2008, sélectionné meilleur article théorique.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;F. Khemane, R. Malti, M. Thomassin, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, Set membership estimation of fractional models in
+the frequency domain, 17th IFAC World Congress, Seoul, July 2008.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;G. Videau, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Set membership state estimation for nonlinear systems using
+contraction theory, 17th IFAC World Congress, Seoul, July 2008.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;G. Videau, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Détection de défauts par analyse par intervalles, Journées Identification
+et Modélisation Expérimentale, Poitiers, 16-17 novembre 2006.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;N. Meslem, N. Ramdani &lt;strong&gt;T. Raïssi&lt;/strong&gt;, Y. Candau, Estimation des paramètres des systèmes à temps
+continu par une approche ensembliste, CIFA 2006, Bordeaux&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;N. Ramdani, N. Meslem, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, Y. Candau, Set-membership identification of continuous-time
+systems, SYSID’06, pp.446-451.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;N. Ramdani, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, Y. Candau, L. Ibos, Complex interval constraint propagation for non linear
+bounded-error parameter identification, CDC-ECC’05.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, N. Ramdani, L. Ibos, Y. Candau, Guaranteed method for the estimation of dielectric relaxation
+models parameters, 5th International Conference on Inverse Problems in Engineering: Theory
+and Practice, Cambridge, 2005.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;N. Ramdani, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, Y. Candau, L. Ibos, A. Boudenne, Set membership parameter identification
+with complex intervals using polar form, 16th IFAC World Congress, Prague. July 2005.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, L. Ibos, N. Ramdani, Y. Candau, Guaranteed method for the estimation of dielectric
+relaxation models parameters, 8th IEEE International Conference on Solid Dielectrics, ICSD2004,
+Toulouse, pp. 111-114, Juillet 2004.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, L. Ibos, N. Ramdani, Y. Candau, Analyse de spectres de relaxation diélectrique par
+arithmétique d’intervalles, 4ème Conférence Européenne sur les méthodes numériques en électromagnétisme,
+NUMELEC2003, Toulouse, Octobre 2003.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, N. Ramdani, Y. Candau, Parameter estimation for non-linear continuous-time systems
+in a bounded error context, 42nd IEEE Conference on Decision and Control, CDC2003, Hawaii, pp.
+2240-2245, December 2003.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, N. Ramdani, Y. Candau, State estimation for non-linear continuous systems in a bounded
+error context, 13th IFAC Symposium on System Identification, SYSID2003, Rotterdam, pp. 1725-1730,
+August 2003.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, N. Ramdani, Y. Candau, Estimation d’état pour des systèmes décrits par des équations
+différentielles non linéaires dans un contexte à erreurs bornées, Journées Doctorales d’automatique,
+JDA2003, Valenciennes, Juin 2003.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. El Kamel, W. Byrski, P. Borne, Multimodel analysis and control of multivariable Systems,
+IEEE International Conference on Systems, Man and Cybernetics, IEEE/SMC’01, Tucson, pp.
+640-645, October 2001.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Présentations aux Groupes de Travail du GDR MACS</title>
+      <link>http://localhost:1313/publications/gdr</link>
+      <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/publications/gdr</guid>
+      <description>
+
+&lt;h1 id=&#34;présentations-aux-groupes-de-travail-du-gdr-macs:f50d9a460e371e63215327570bb45ee7&#34;&gt;Présentations aux Groupes de Travail du GDR MACS&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, D. Efimov, A. Zolghadri, Stabilisation robuste d’une classe de systèmes non linéaires incertains,
+Groupe de Travail Méthodes et Outils pour la Synthèse et l’Analyse en Robustesse (MOSAR),
+&lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2011&lt;/sub&gt;/2011.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;F. Khemane, R. Malti, M. Thomassin, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, Identification fréquentielle par modèle non entier
+utilisant une approche ensembliste, Groupe de Travail Identification, &lt;sup&gt;27&lt;/sup&gt;&amp;frasl;&lt;sub&gt;11&lt;/sub&gt;/2008, Paris.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;G. Videau, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Contrôle d’intégrité paramétrique par satisfaction de contraintes
+: cas des systèmes non linéaires à temps continu, Groupe de Travail Sûreté, Surveillance, Supervision
+(S3), &lt;sup&gt;30&lt;/sup&gt;&amp;frasl;&lt;sub&gt;05&lt;/sub&gt;/2008, Paris.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, Complex interval arithmetic using polar form, Groupe de travail Méthodes Ensemblistes
+pour l’Automatique (GT MEA), 03/02/2005, Paris.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, Int´egration numérique garantie de systèmes décrits par des équations algébro-différentielles
+non linéaires. Application à l’estimation garantie d’état et de paramètres dans un contexte à erreurs
+bornées, Groupe de Travail Identification, &lt;sup&gt;26&lt;/sup&gt;&amp;frasl;&lt;sub&gt;09&lt;/sub&gt;/2002, Paris.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications</link>
+      <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/publications</guid>
+      <description>
+
+&lt;h1 id=&#34;revues-internationales:480c4de99851329b51acecc000e2e84f&#34;&gt;Revues internationales&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, Design of interval observers for uncertain dynamical systems, Automation and
+Remote Control, to appear.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;S. Chebotarev, D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Interval Observers for Continuous-Time LPV
+Systems with L1/L∞ performance, &lt;em&gt;Automatica&lt;/em&gt;, 57(7), 2015.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;D. Gucik-Derigny, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, A note on Interval Observer Design for Unknown Input
+Estimation, &lt;em&gt;International Journal of Control&lt;/em&gt;, accepted.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, W. Perruquetti, A. Zolghadri, Design of Interval Observers for Estimation and
+Stabilization of Discrete-Time LPV Systems, &lt;em&gt;IMA Journal of Mathematical Control and Information&lt;/em&gt;,
+accepted.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;R. H. Thabet, C. Combastel, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Set-membership fault detection under noisy environment
+with application to the detection of abnormal aircraft control surface positions, &lt;em&gt;International
+Journal of Control&lt;/em&gt;, accepted.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;R.H. Thabet, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, C. Combastel, D. Efimov, A. Zolghadri, An effective method to interval
+observer design for time-varying systems, &lt;em&gt;Automatica&lt;/em&gt;, 50(10), 2677-2684, 2014&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;H. Rios, D. Efimov, J. Davila, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, L. Fridman, and A. Zolghadri, Robust State Estimation
+and Fault Detection and Identification for Linear Switched Systems, &lt;em&gt;International Journal of Adaptive
+Control and Signal Processing&lt;/em&gt;, 28(12), 1372-1397, 2014.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Set Adaptive Observers for LPV Systems: Application to Fault
+Detection, &lt;em&gt;Journal of Dynamic Systems, Measurement and Control&lt;/em&gt;, 136(2), 2013.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;D. Efimov, W. Perruquetti, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, On Interval Observers for Time-Varying DiscreteTime
+Systems, &lt;em&gt;IEEE Transactions on Automatic Control&lt;/em&gt;, 58(12), Pages 3218 - 3224, 2013.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Control of nonlinear and LPV systems: interval observer-based
+framework, &lt;em&gt;IEEE Transactions on Automatic Control&lt;/em&gt;, 58(3), 2013. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 1.952&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, Stanislav Chebotarev, A. Zolghadri, Interval State Observer for Nonlinear Time
+Varying Systems, &lt;em&gt;Automatica&lt;/em&gt;, 49(1), Pages 200-205, 2013.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;S. Ramatou, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, D. Efimov, Actuator fault detection and diagnosis for flat systems:
+A constraint satisfaction technique, &lt;em&gt;International Journal of Applied Mathematics &amp;amp; Computer
+Science&lt;/em&gt;, 23(1), 2013. (Impact factor 2010: 0.794).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;D. Efimov, L. Fridman, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, R. Seydou, A. Zolghadri, Interval Estimation for LPV Systems
+Applying High Order Sliding Mode Techniques, &lt;em&gt;Automatica&lt;/em&gt;, 48(9), 2365-2371, 2012.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Stabilisation robuste d’une classe de systèmes non linéaires incertains,
+&lt;em&gt;Journal Européen des Systèmes Automatisés&lt;/em&gt;, 46(4-5), 335-348, 2012.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, D. Efimov, A. Zolghadri, Interval state estimation for a class of nonlinear systems, &lt;em&gt;IEEE
+Transactions on Automatic Control&lt;/em&gt;, 57(1), 260-265, 2012. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 1.952&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;F. Khemane, R. Malti, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, and X. Moreau, Robust estimation of fractional models in the
+frequency domain using set membership methods, &lt;em&gt;Signal Processing&lt;/em&gt;, 92(7), 1591-1601, 2012.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;D. Efimov, A. Zolghadri, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, Actuators Fault Detection and Compensation under Feedback
+Control, &lt;em&gt;Automatica&lt;/em&gt;, 47(8): 1699-1705, 2011. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 2.172&lt;/span&gt;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, Reliable amplitude and frequency estimation for biased and noisy signals, &lt;em&gt;Communications
+in Nonlinear Science and Numerical Simulation&lt;/em&gt;, 16(11): 4153-4157, 2011. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 2.698&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, G. Videau, A. Zolghadri, Interval observers design for consistency checks of nonlinear
+continuous-time systems, &lt;em&gt;Automatica&lt;/em&gt;, 46(3): 518-527, 2010. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 2.172&lt;/span&gt;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;R. Malti, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, M. Thomassin, F. Khemane, Set membership parameter estimation of fractional
+models based on bounded frequency domain data, &lt;em&gt;Communications in Nonlinear Science and Numerical
+Simulation&lt;/em&gt;, 15(4), 927-938, 2010. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 2.698&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, N. Ramdani, Y. Candau, Set membership parameter estimation in the frequency domain,
+International Journal of Control, &lt;em&gt;Automation, and Systems&lt;/em&gt;, 7(5), 2009. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 0.853&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Y. Candau, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, N. Ramdani, L. Ibos, Complex interval arithmetic using polar form, &lt;em&gt;Reliable
+Computing&lt;/em&gt;, 12(1) : 1-20, 2006. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2009: 0.68&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, N. Ramdani, Y. Candau, Bounded error moving horizon state estimator for non-linear
+continuous-time systems: application to a bioprocess system, &lt;em&gt;Journal of Process Control&lt;/em&gt;, 12(5) : 537-
+545, 2005. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 1.655&lt;/span&gt;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, L. Ibos, N. Ramdani, Y. Candau, Analyse de spectres de relaxation diélectrique par inversion
+ensembliste: une première approche, &lt;em&gt;Revue Internationale de Génie Electrique&lt;/em&gt;, Numéro spécial, 8(1):
+97-117, 2005.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, N. Ramdani, Y. Candau, Set membership state and parameter estimation for systems
+described by non-linear differential equations, &lt;em&gt;Automatica&lt;/em&gt;, 40(10): 1771-1777, 2004. (&lt;span class=&#34;blue&#34;&gt;Impact factor
+2010: 2.172&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;articles-soumis-à-des-revues-internationales:480c4de99851329b51acecc000e2e84f&#34;&gt;Articles soumis à des revues internationales&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, M. Aoun, Robust state estimation for fractional systems, &lt;em&gt;Automatica&lt;/em&gt;, submitted.&lt;/li&gt;
+&lt;li&gt;B. Yousfi, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, M. Amairi, D. Gucik-Derigny, M. Aoun, Robust state estimation for Singularly
+Perturbed Systems, &lt;em&gt;International Journal of Control&lt;/em&gt;, revised.&lt;/li&gt;
+&lt;li&gt;S. Bezzaoucha, A. Zolghadri, D. Henry, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, Observer Design for Nonlinear Uncertain Systems:
+an Interval Multiple Models Approach, &lt;em&gt;International Journal of Control&lt;/em&gt;, submitted..&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;chapitre-d-ouvrage-collectif:480c4de99851329b51acecc000e2e84f&#34;&gt;Chapitre d’ouvrage collectif&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Robust State and Parameter Estimation for Nonlinear ContinuousTime
+Systems in a Set-Membership Context, Modeling, Design, and Simulation of Systems with Uncertainties,
+&lt;em&gt;Springer&lt;/em&gt;, 2011.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>7 security practices you need to follow</title>
+      <link>http://localhost:1313/post/7-security-practices-you-need-to-follow</link>
+      <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/7-security-practices-you-need-to-follow</guid>
+      <description>
+
+&lt;p&gt;
+&lt;figure class=&#34;half right&#34;&gt;
+    
+        &lt;img src=&#34;http://localhost:1313/media/usbkey.jpg&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;Some of this may seem like a broken record, yet every single time you
+hear about a bank losing millions of customer data, or a company having
+a &lt;a href=&#34;http://en.wikipedia.org/wiki/Computer_security&#34; title=&#34;Computer security&#34;&gt;security
+breach&lt;/a&gt;
+they consistently have failed to implement and enforce the most basic
+security practices. Here are 7 simple security practices that you cannot
+afford to not follow.&lt;/p&gt;
+
+&lt;h3 id=&#34;1-secure-pass-phrases:f358ebdcd31933f8cdcc7d2db902d14b&#34;&gt;1. Secure pass phrases&lt;/h3&gt;
+
+&lt;p&gt;Throw away the notion of
+a &lt;a href=&#34;http://en.wikipedia.org/wiki/Password&#34; title=&#34;Password&#34;&gt;password&lt;/a&gt;. Pass
+phrases consisting of multiple words and symbols are considerably more
+secure and easy to remember. Most people use the same password for
+everything and it’s almost always a word or a word+#. A good &lt;a href=&#34;http://en.wikipedia.org/wiki/Passphrase&#34; title=&#34;Passphrase&#34;&gt;pass
+phrase&lt;/a&gt; can be
+something like “Mary.had.@.little.Lamb”. It’s really easy to remember
+and nearly impossible to guess or brute force. Using a password
+management system like One Password for Mac is also a good idea.&lt;/p&gt;
+
+&lt;h3 id=&#34;2-educate-your-users:f358ebdcd31933f8cdcc7d2db902d14b&#34;&gt;2. Educate your users&lt;/h3&gt;
+
+&lt;p&gt;All too often policies are put into place but lacking training necessary
+to ensure that policies are understood and followed. Quarterly web casts
+can go a long way to ensuring that the most critical policies are
+complied with without adding unnecessary disruptions to the business.&lt;/p&gt;
+
+&lt;h3 id=&#34;3-perform-regulatory-compliance-http-en-wikipedia-org-wiki-regulatory-compliance-regulatory-compliance-self-audits:f358ebdcd31933f8cdcc7d2db902d14b&#34;&gt;3. Perform &lt;a href=&#34;http://en.wikipedia.org/wiki/Regulatory_compliance&#34; title=&#34;Regulatory compliance&#34;&gt;regulatory compliance&lt;/a&gt; self audits&lt;/h3&gt;
+
+&lt;p&gt;Hackers are attempting to break into your systems right now. If you
+aren’t holding self audits than the only ones auditing your systems are
+the hackers. It’s critical that this practice takes place routinely to
+ensure that your data and systems are as safe as possible. It only takes
+one small mistake to make you vulnerable. Routine system checking means
+there is a chance you will find it before someone else does.&lt;/p&gt;
+
+&lt;h3 id=&#34;4-access-provided-on-a-needs-to-have-basis:f358ebdcd31933f8cdcc7d2db902d14b&#34;&gt;4. Access provided on a needs to have basis&lt;/h3&gt;
+
+&lt;p&gt;Yes this is inconvenient. Yes you need to do it. Firewalls, ACL, fine
+grained permissions. Properly setup roles. In every system you do use,
+in every level. This also means that root/admin permission should always
+be behind sudo and never logged in.&lt;/p&gt;
+
+&lt;h3 id=&#34;5-encrypt-all-sensitive-data:f358ebdcd31933f8cdcc7d2db902d14b&#34;&gt;5. Encrypt all sensitive data&lt;/h3&gt;
+
+&lt;p&gt;All sensitive data should be encrypted. Hard drives should be encrypted;
+Tunnels should be encrypted using
+SSH, &lt;a href=&#34;http://en.wikipedia.org/wiki/Virtual_private_network&#34; title=&#34;Virtual private network&#34;&gt;VPN&lt;/a&gt;
+or SSL; Wireless networks and even wireless keyboards. Passwords should
+be stored via a one
+way &lt;a href=&#34;http://en.wikipedia.org/wiki/Encryption&#34; title=&#34;Encryption&#34;&gt;encryption&lt;/a&gt;
+like md5.&lt;/p&gt;
+
+&lt;h3 id=&#34;6-never-take-data-off-site-flash-drives-laptops-etc:f358ebdcd31933f8cdcc7d2db902d14b&#34;&gt;6. Never take data off site (flash drives, laptops, etc)&lt;/h3&gt;
+
+&lt;p&gt;It seems every time you hear about a bank or government agency losing
+millions of critical identity information a portable drive or laptop is
+involved. While encryption is part of the solution here, it could
+entirely be avoided if sensitive data is not permitted off site. Data
+should reside on servers sitting behind properly established ACL and not
+be available to be copied or transferred onto a laptop or portable
+drive.&lt;/p&gt;
+
+&lt;h3 id=&#34;7-use-common-sense:f358ebdcd31933f8cdcc7d2db902d14b&#34;&gt;7. Use common sense&lt;/h3&gt;
+
+&lt;p&gt;Lastly, the most important security principle is to use common sense. If
+it seems wrong, it probably is. Common sense is your best defense. Use
+it wisely.&lt;/p&gt;
+
+&lt;h2 id=&#34;related-articles:f358ebdcd31933f8cdcc7d2db902d14b&#34;&gt;Related articles&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://abusiveviews.wordpress.com/2009/11/01/data-security-in-simple-terms/&#34;&gt;Data Security in Simple
+Terms&lt;/a&gt;
+(abusiveviews.wordpress.com)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://techie-buzz.com/tips-and-tricks/protect-your-important-and-personal-data.html?utm_source=subscriber&amp;amp;utm_medium=rss&amp;amp;utm_campaign=rss&#34;&gt;Protect Your Important and Personal
+Data&lt;/a&gt;
+(techie-buzz.com)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.crunchgear.com/2009/10/08/secure-your-data-with-encrypted-usb-drives/&#34;&gt;Secure your data with encrypted USB
+drives&lt;/a&gt;
+(crunchgear.com)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.socialmediatoday.com/SMC/122938&#34;&gt;Lawyers should leave their laptops at home when traveling
+abroad&lt;/a&gt;(socialmediatoday.com)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://owencutajar.com/protect-your-data/&#34;&gt;Protect your data&lt;/a&gt;
+(owencutajar.com)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

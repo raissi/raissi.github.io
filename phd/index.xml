@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phds on Tarek Raissi</title>
+    <link>http://localhost:1313/phd/</link>
+    <description>Recent content in Phds on Tarek Raissi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 18 Nov 2014 14:06:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/phd/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Encadrement doctoral</title>
+      <link>http://localhost:1313/phd/students</link>
+      <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/phd/students</guid>
+      <description>
+
+&lt;h1 id=&#34;encadrement-doctoral:de354e522e3337061ca4d76bfdd32d47&#34;&gt;Encadrement doctoral&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Gaétan Videau&lt;/strong&gt;. Titre : Méthodes garanties pour l’estimation d’état et le contrôle de cohérence des
+systèmes non linéaires à temps continu. &lt;em&gt;Thèse soutenue le 17 juillet 2009&lt;/em&gt;. Durée 33.5 mois.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ramatou Seydou&lt;/strong&gt;. Titre : Contribution au développement des techniques ensemblistes pour l’estimation de l’état et des entrées des systèmes à temps continu: application à la détection de défauts. &lt;em&gt;Thèse soutenue le 3 d´ecembre 2012&lt;/em&gt;. Durée 34 mois&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Rihab El Houda Thabet&lt;/strong&gt;. Titre: Surveillance Préventive des Systèmes à Incertitudes Bornées. &lt;em&gt;Thèse soutenue le 9 décembre 2014&lt;/em&gt;. Durée 35 mois&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Lakhdar Aggoune&lt;/strong&gt;. Title: Développement de méthodes de diagnostic à base d’une approche paramétrique pour des systèmes industriels. &lt;em&gt;Soutenance prévue en septembre 2015&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Basma Yousfi&lt;/strong&gt;. Title: Contribution à l’observation et au pronostic des systèmes incertains. &lt;em&gt;Soutenance prévue en décembre 2015&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Rihab Lamouchi&lt;/strong&gt;. Titre : Commande Tolérante aux Fautes à base d’observateurs intervalles. &lt;em&gt;Thèse débutée en janvier 2014&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;master-recherche:de354e522e3337061ca4d76bfdd32d47&#34;&gt;Master Recherche&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Asma Ben Rejab&lt;/strong&gt;. Titre : Observation robuste pour des systèmes à dérivation non entière, &lt;em&gt;Mars - Juillet 2015&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ghazi BEL HAJ FREJ&lt;/strong&gt;. Titre: Etude de la diagnosticabilité des systèmes à évènements discrets. &lt;em&gt;Fev. 2012 - Sept. 2012&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jean-Pascal COBUT&lt;/strong&gt;. Titre: Méthodes ensemblistes dédiées au diagnostic. &lt;em&gt;Fev. 2009 - Juin 2009&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jean-Pierre BRIDIER&lt;/strong&gt;. Titre: Méthodes garanties pour le diagnostic des systèmes qLPV Application à la détection de pannes oscillatoires d’un A380. &lt;em&gt;Fev. 2008 - Sep. 2008&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Damien REYNAUD&lt;/strong&gt;. Titre: Estimation d’état pour des systèmes non linéaires incertains. Application au diagnostic. &lt;em&gt;Fev. 2007 - Juin 2007&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Gaétan VIDEAU&lt;/strong&gt;. Titre: Méthodes ensemblistes pour le diagnostic. &lt;em&gt;Fev. 2006 - Juin 2006&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
