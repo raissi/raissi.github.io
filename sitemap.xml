@@ -2,49 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/raissi.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2014-11-18T14:06:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/raissi.github.io/presentation/7-biggest-mistakes-in-go/</loc>
+    <loc>/contact/</loc>
     <lastmod>2014-11-18T14:06:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/raissi.github.io/prix-resp/</loc>
+    <loc>/publications/gdr</loc>
     <lastmod>2014-11-18T14:06:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/raissi.github.io/phd/students</loc>
+    <loc>/phd/students</loc>
     <lastmod>2014-11-18T14:06:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/raissi.github.io/publications/gdr</loc>
+    <loc>/prix-resp/</loc>
     <lastmod>2014-11-18T14:06:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/raissi.github.io/publications</loc>
+    <loc>/publications/conf</loc>
     <lastmod>2014-11-18T14:06:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/raissi.github.io/publications/conf</loc>
+    <loc>/publications</loc>
     <lastmod>2014-11-18T14:06:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/raissi.github.io/contact/</loc>
-    <lastmod>2014-11-18T14:06:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/raissi.github.io/post/7-security-practices-you-need-to-follow</loc>
-    <lastmod>2009-12-22T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

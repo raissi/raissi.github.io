@@ -1097,7 +1097,6 @@ body>footer p {
     footer>div,
     #meta>div,
     #meta>section,
-    #content,
     #comments>div {
         max-width: 38em
     }
@@ -1236,7 +1235,7 @@ body>footer p {
 
     body>footer,
     #comments {
-        margin: 0;      
+        margin: 0;
     }
 
     body>section:before,

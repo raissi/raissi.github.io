@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on Tarek Raissi</title>
-    <link>raissi.github.io/tags/development/</link>
+    <link>http://localhost:1313/tags/development/</link>
     <description>Recent content in Development on Tarek Raissi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
     <lastBuildDate>Tue, 18 Nov 2014 14:06:00 -0500</lastBuildDate>
-    <atom:link href="raissi.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>7 Common mistakes in Go and when to avoid them</title>
-      <link>/raissi.github.io/presentation/7-biggest-mistakes-in-go/</link>
+      <link>http://localhost:1313/presentation/7-biggest-mistakes-in-go/</link>
       <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
       
-      <guid>/raissi.github.io/presentation/7-biggest-mistakes-in-go/</guid>
+      <guid>http://localhost:1313/presentation/7-biggest-mistakes-in-go/</guid>
       <description>
 
 &lt;p&gt;Not a generic list of programming mistakes, these are the lessons I wish I
