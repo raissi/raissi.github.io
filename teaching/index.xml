@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings on Tarek RAISSI</title>
+    <link>/teaching/</link>
+    <description>Recent content in Teachings on Tarek RAISSI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>Copyright (c) 2015, Tarek Raissi; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 18 Nov 2014 14:06:00 -0500</lastBuildDate>
+    <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Enseignement</title>
+      <link>/teaching/</link>
+      <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;glyphicon glyphicon-hand-right&#34;/&gt; Commande des systèmes linéaires&lt;br /&gt;
+&lt;span class=&#34;glyphicon glyphicon-hand-right&#34;/&gt; commande des systèmes à temps discret&lt;br /&gt;
+&lt;span class=&#34;glyphicon glyphicon-hand-right&#34;/&gt; Commande temps réel - systèmes multi-tâches&lt;br /&gt;
+&lt;span class=&#34;glyphicon glyphicon-hand-right&#34;/&gt; Programmation des robots industriels&lt;br /&gt;
+&lt;span class=&#34;glyphicon glyphicon-hand-right&#34;/&gt; Programmation des micro-contrôleurs&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

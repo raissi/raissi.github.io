@@ -13,17 +13,17 @@
   </url>
   
   <url>
-    <loc>/publications/gdr</loc>
-    <lastmod>2014-11-18T14:06:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/phd/students</loc>
     <lastmod>2014-11-18T14:06:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/prix-resp/</loc>
+    <loc>/publications/gdr</loc>
+    <lastmod>2014-11-18T14:06:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications</loc>
     <lastmod>2014-11-18T14:06:00-05:00</lastmod>
   </url>
   
@@ -33,7 +33,12 @@
   </url>
   
   <url>
-    <loc>/publications</loc>
+    <loc>/prix-resp/</loc>
+    <lastmod>2014-11-18T14:06:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teaching/</loc>
     <lastmod>2014-11-18T14:06:00-05:00</lastmod>
   </url>
   

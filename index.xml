@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tarek Raissi</title>
+    <title>Tarek RAISSI</title>
     <link>/</link>
-    <description>Recent content on Tarek Raissi</description>
+    <description>Recent content on Tarek RAISSI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>Copyright (c) 2015, Tarek Raissi; all rights reserved.</copyright>
@@ -17,37 +17,6 @@
       
       <guid>/contact/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Présentations aux Groupes de Travail du GDR MACS</title>
-      <link>/publications/gdr</link>
-      <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
-      
-      <guid>/publications/gdr</guid>
-      <description>
-
-&lt;h1 id=&#34;présentations-aux-groupes-de-travail-du-gdr-macs:f50d9a460e371e63215327570bb45ee7&#34;&gt;Présentations aux Groupes de Travail du GDR MACS&lt;/h1&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, D. Efimov, A. Zolghadri, &lt;em&gt;Stabilisation robuste d’une classe de systèmes non linéaires incertains&lt;/em&gt;,
-Groupe de Travail Méthodes et Outils pour la Synthèse et l’Analyse en Robustesse (MOSAR), 24-11-2011.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;F. Khemane, R. Malti, M. Thomassin, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, &lt;em&gt;Identification fréquentielle par modèle non entier
-utilisant une approche ensembliste&lt;/em&gt;, Groupe de Travail Identification, 27-11-2008, Paris.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;G. Videau, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, &lt;em&gt;Contrôle d&amp;rsquo;intégrité paramétrique par satisfaction de contraintes
-: cas des systèmes non linéaires à temps continu&lt;/em&gt;, Groupe de Travail Sûreté, Surveillance, Supervision
-(S3), 30-05-2008, Paris.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, &lt;em&gt;Complex interval arithmetic using polar form&lt;/em&gt;, Groupe de travail Méthodes Ensemblistes
-pour l&amp;rsquo;Automatique (GT MEA), 03-02-2005, Paris.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, &lt;em&gt;Intégration numérique garantie de systèmes décrits par des équations algébro-différentielles
-non linéaires. Application à l’estimation garantie d’état et de paramètres dans un contexte à erreurs
-bornées&lt;/em&gt;, Groupe de Travail Identification, 26-09-2002, Paris.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
     </item>
     
     <item>
@@ -94,84 +63,124 @@ systèmes non linéaires à temps continu. &lt;em&gt;Thèse soutenue le 17 juill
     </item>
     
     <item>
-      <title>Prix &amp; responsabilités</title>
-      <link>/prix-resp/</link>
+      <title>Présentations aux Groupes de Travail du GDR MACS</title>
+      <link>/publications/gdr</link>
       <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
       
-      <guid>/prix-resp/</guid>
-      <description>&lt;p&gt;&lt;span class=&#34;glyphicon glyphicon-hand-right&#34;/&gt;   Titulaire de la &lt;strong&gt;&lt;em&gt;Prime d’Excellence Scientifique depuis 2013&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+      <guid>/publications/gdr</guid>
+      <description>
 
-&lt;p&gt;&lt;span class=&#34;glyphicon glyphicon-hand-right&#34;/&gt;   Prix du &lt;strong&gt;&lt;em&gt;meilleur article théorique CIFA 2008&lt;/em&gt;&lt;/strong&gt; avec G. Videau&lt;/p&gt;
+&lt;h1 id=&#34;présentations-aux-groupes-de-travail-du-gdr-macs:f50d9a460e371e63215327570bb45ee7&#34;&gt;Présentations aux Groupes de Travail du GDR MACS&lt;/h1&gt;
 
-&lt;p&gt;&lt;span class=&#34;glyphicon glyphicon-hand-right&#34;/&gt;   Prix de la &lt;strong&gt;&lt;em&gt;Meilleure Thèse d’Automatique 2003-2005&lt;/em&gt;&lt;/strong&gt; du GDR MACS&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, D. Efimov, A. Zolghadri, &lt;em&gt;Stabilisation robuste d’une classe de systèmes non linéaires incertains&lt;/em&gt;,
+Groupe de Travail Méthodes et Outils pour la Synthèse et l’Analyse en Robustesse (MOSAR), 24-11-2011.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;&lt;span class=&#34;glyphicon glyphicon-hand-right&#34;/&gt;   Prix du &lt;strong&gt;&lt;em&gt;meilleur article de session&lt;/em&gt;&lt;/strong&gt;, American Control Conference, ACC’2010.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;F. Khemane, R. Malti, M. Thomassin, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, &lt;em&gt;Identification fréquentielle par modèle non entier
+utilisant une approche ensembliste&lt;/em&gt;, Groupe de Travail Identification, 27-11-2008, Paris.&lt;/p&gt;&lt;/li&gt;
 
-&lt;hr /&gt;
+&lt;li&gt;&lt;p&gt;G. Videau, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, &lt;em&gt;Contrôle d&amp;rsquo;intégrité paramétrique par satisfaction de contraintes
+: cas des systèmes non linéaires à temps continu&lt;/em&gt;, Groupe de Travail Sûreté, Surveillance, Supervision
+(S3), 30-05-2008, Paris.&lt;/p&gt;&lt;/li&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Membre du comité technique d’IFAC TC 1.1 &amp;ldquo;Modeling, Identification and Signal Processing&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, &lt;em&gt;Complex interval arithmetic using polar form&lt;/em&gt;, Groupe de travail Méthodes Ensemblistes
+pour l&amp;rsquo;Automatique (GT MEA), 03-02-2005, Paris.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Membre de &amp;ldquo;Action Group on Interval Methods, IEEE Technical Committee on Computational Aspects of Control System Design&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, &lt;em&gt;Intégration numérique garantie de systèmes décrits par des équations algébro-différentielles
+non linéaires. Application à l’estimation garantie d’état et de paramètres dans un contexte à erreurs
+bornées&lt;/em&gt;, Groupe de Travail Identification, 26-09-2002, Paris.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications</link>
+      <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
+      
+      <guid>/publications</guid>
+      <description>
 
-&lt;li&gt;&lt;p&gt;Membre sénior IEEE&lt;/p&gt;&lt;/li&gt;
+&lt;h1 id=&#34;revues-internationales:480c4de99851329b51acecc000e2e84f&#34;&gt;Revues internationales&lt;/h1&gt;
 
-&lt;li&gt;&lt;p&gt;Co-organisateur (avec Vicenç Puig &amp;amp; Christophe Combastel) du numéro spécial &amp;ldquo;Set-membership Methods Applied to FDI and FTC&amp;rdquo; à paraître dans la revue &amp;ldquo;International Journal of Adaptive Control and Signal Processing&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;S. Chebotarev, D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Interval Observers for Continuous-Time LPV
+Systems with L1/L∞ performance, &lt;em&gt;Automatica&lt;/em&gt;, 57(7), 2015.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Membre du comité éditorial des revues &amp;ldquo;American Journal of Applied Mathematics&amp;rdquo; &amp;amp; &amp;ldquo;American Journal of Aerospace Engineering&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;R.H. Thabet, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, C. Combastel, D. Efimov, A. Zolghadri, An effective method to interval
+observer design for time-varying systems, &lt;em&gt;Automatica&lt;/em&gt;, 50(10), 2677-2684, 2014&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Membre du comité national d’organisation de la conférence &amp;ldquo;IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes - 9th SAFEPROCESS 2015&amp;rdquo;, Paris&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;H. Rios, D. Efimov, J. Davila, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, L. Fridman, and A. Zolghadri, Robust State Estimation
+and Fault Detection and Identification for Linear Switched Systems, &lt;em&gt;International Journal of Adaptive
+Control and Signal Processing&lt;/em&gt;, 28(12), 1372-1397, 2014.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Membre du comité d’organisation de la conférence &amp;ldquo;International Conference on Systems, Analysis and Automatic Control&amp;rdquo;, Barcelone, 2014&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Set Adaptive Observers for LPV Systems: Application to Fault
+Detection, &lt;em&gt;Journal of Dynamic Systems, Measurement and Control&lt;/em&gt;, 136(2), 2013.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Membre du comité d’organisation du &amp;ldquo;6th International Workshop on Verification and Evaluation of Computer and Communication Systems&amp;rdquo;, Paris, 2012&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;D. Efimov, W. Perruquetti, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, On Interval Observers for Time-Varying DiscreteTime
+Systems, &lt;em&gt;IEEE Transactions on Automatic Control&lt;/em&gt;, 58(12), Pages 3218 - 3224, 2013.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Editeur associé pour la conférence 8th IFAC Symposium on Nonlinear Control Systems (NOLCOS’2010), Bologne, Italie&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Control of nonlinear and LPV systems: interval observer-based
+framework, &lt;em&gt;IEEE Transactions on Automatic Control&lt;/em&gt;, 58(3), 2013. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 1.952&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Organisateur de la session invitée &amp;ldquo;Set-membership state and parameter estimation for nonlinear systems&amp;rdquo;, 8th IFAC Symposium on Nonlinear Control Systems (NOLCOS’2010), Bologne, Italie&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, Stanislav Chebotarev, A. Zolghadri, Interval State Observer for Nonlinear Time
+Varying Systems, &lt;em&gt;Automatica&lt;/em&gt;, 49(1), Pages 200-205, 2013.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Organisateur de la session invitée &amp;ldquo;Fault Detection and Isolation based on set-membership techniques&amp;rdquo;, 7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS’2009), Barcelone, Espagne&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;S. Ramatou, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, D. Efimov, Actuator fault detection and diagnosis for flat systems:
+A constraint satisfaction technique, &lt;em&gt;International Journal of Applied Mathematics &amp;amp; Computer
+Science&lt;/em&gt;, 23(1), 2013. (Impact factor 2010: 0.794).&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Co-organisateur de la session invitée &amp;ldquo;Robust diagnosis based on set-membership techniques&amp;rdquo;, 18th IFAC World Congress Milan, Italie&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;D. Efimov, L. Fridman, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, R. Seydou, A. Zolghadri, Interval Estimation for LPV Systems
+Applying High Order Sliding Mode Techniques, &lt;em&gt;Automatica&lt;/em&gt;, 48(9), 2365-2371, 2012.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Co-organisateur de la session invitée &amp;ldquo;Robust estimation of uncertain systems&amp;rdquo;, 51st IEEE Conference on Decision and Control, Maui, Hawaii, 2012&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Stabilisation robuste d’une classe de systèmes non linéaires incertains,
+&lt;em&gt;Journal Européen des Systèmes Automatisés&lt;/em&gt;, 46(4-5), 335-348, 2012.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Co-organisateur de la session invitée &amp;ldquo;Interval estimation of uncertain systems&amp;rdquo;, 52nd IEEE Conference on Decision and Control, Florence, Italie, 2013&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, D. Efimov, A. Zolghadri, Interval state estimation for a class of nonlinear systems, &lt;em&gt;IEEE
+Transactions on Automatic Control&lt;/em&gt;, 57(1), 260-265, 2012. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 1.952&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Co-organisateur de la session invitée &amp;ldquo;Set-membership-based techniques for robust diagnosis - I&amp;rdquo; 7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS’2015), Paris, France.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;F. Khemane, R. Malti, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, and X. Moreau, Robust estimation of fractional models in the
+frequency domain using set membership methods, &lt;em&gt;Signal Processing&lt;/em&gt;, 92(7), 1591-1601, 2012.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Co-organisateur de la session invitée &amp;ldquo;Set-membership-based techniques for robust diagnosis - II&amp;rdquo; 7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS’2015), Paris, France&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;D. Efimov, A. Zolghadri, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, Actuators Fault Detection and Compensation under Feedback
+Control, &lt;em&gt;Automatica&lt;/em&gt;, 47(8): 1699-1705, 2011. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 2.172&lt;/span&gt;)&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Co-président de la session &amp;ldquo;Robust diagnosis based on set-membership techniques&amp;rdquo;, 18th IFAC World Congress Milan, Italie&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, Reliable amplitude and frequency estimation for biased and noisy signals, &lt;em&gt;Communications
+in Nonlinear Science and Numerical Simulation&lt;/em&gt;, 16(11): 4153-4157, 2011. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 2.698&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Président de la session &amp;ldquo;Set-membership state and parameter estimation for nonlinear systems&amp;rdquo;, 8th IFAC Symposium on Nonlinear Control Systems, Bologna, Italy, 2010&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, G. Videau, A. Zolghadri, Interval observers design for consistency checks of nonlinear
+continuous-time systems, &lt;em&gt;Automatica&lt;/em&gt;, 46(3): 518-527, 2010. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 2.172&lt;/span&gt;)&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Président de la session &amp;ldquo;Nonlinear Systems I&amp;rdquo;, European Control Conference, Budapest, Hongrie, 2009&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;R. Malti, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, M. Thomassin, F. Khemane, Set membership parameter estimation of fractional
+models based on bounded frequency domain data, &lt;em&gt;Communications in Nonlinear Science and Numerical
+Simulation&lt;/em&gt;, 15(4), 927-938, 2010. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 2.698&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Président de la session &amp;ldquo;Fault Detection and Isolation based on set-membership techniques&amp;rdquo;, SAFEPROCESS’2009, Barcelone, Espagne&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, N. Ramdani, Y. Candau, Set membership parameter estimation in the frequency domain,
+International Journal of Control, &lt;em&gt;Automation, and Systems&lt;/em&gt;, 7(5), 2009. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 0.853&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Expert pour l’école doctorale de &amp;ldquo;Polytechnic University of Catalonia&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Y. Candau, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, N. Ramdani, L. Ibos, Complex interval arithmetic using polar form, &lt;em&gt;Reliable
+Computing&lt;/em&gt;, 12(1) : 1-20, 2006. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2009: 0.68&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Evaluateur pour la plupart des revues de référence en Automatique : Automatica, IEEE Transactions on Automatic Control, Annual Reviews of Control, European Journal of Control, International Journal of Adaptive Control and Signal Processing, Signal Processing, International Journal of Applied Mathematics and Computer Science, International Journal of Modelling, Identification and Control, Circuits Systems and Signal Processing, International Journal of Control, Journal of Process Control, JESA&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, N. Ramdani, Y. Candau, Bounded error moving horizon state estimator for non-linear
+continuous-time systems: application to a bioprocess system, &lt;em&gt;Journal of Process Control&lt;/em&gt;, 12(5) : 537-
+545, 2005. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 1.655&lt;/span&gt;)&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Membre du Conseil du Laboratoire Cedric du Cnam&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, L. Ibos, N. Ramdani, Y. Candau, Analyse de spectres de relaxation diélectrique par inversion
+ensembliste: une première approche, &lt;em&gt;Revue Internationale de Génie Electrique&lt;/em&gt;, Numéro spécial, 8(1):
+97-117, 2005.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Responsable du Mastère spécialisé (label de la Conférence des Grandes Ecoles) &amp;ldquo;Systèmes Mécatroniques et Robotiques&amp;rdquo;, Cnam&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, N. Ramdani, Y. Candau, Set membership state and parameter estimation for systems
+described by non-linear differential equations, &lt;em&gt;Automatica&lt;/em&gt;, 40(10): 1771-1777, 2004. (&lt;span class=&#34;blue&#34;&gt;Impact factor
+2010: 2.172&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;li&gt;&lt;p&gt;Responsable du diplôme d’ingénieur Génie Industriel, Cnam&lt;/p&gt;&lt;/li&gt;
+&lt;h1 id=&#34;chapitre-d-ouvrage-collectif:480c4de99851329b51acecc000e2e84f&#34;&gt;Chapitre d’ouvrage collectif&lt;/h1&gt;
 
-&lt;li&gt;&lt;p&gt;Membre du Conseil du département Génie Electrique et Informatique Industrielle de l’IUT Bordeaux 1, 2008-2011&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Directeur des études au département Génie Electrique et Informatique Industrielle de l’IUT Bordeaux 1, 2007-2009&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Membre d’un comité de sélection pour le recrutement d’un MCF en 61ème section, Université de Bordeaux : 61 MCF 550 (2015)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Membre d’un comité de sélection pour le recrutement d’un MCF en 61ème section, UHP, Nancy. Poste: 61-MCF-0040 (2012)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Membre d’un comité de sélection pour le recrutement d’un MCF en 61ème section, UHP, Nancy. Poste: 61-MCF-0213 (2011)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Membre d’un comité de sélection pour le recrutement d’un MCF en 61-63 èmes sections, IPB. Poste: 6163-MCF-0134 (2011)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Robust State and Parameter Estimation for Nonlinear ContinuousTime
+Systems in a Set-Membership Context, Modeling, Design, and Simulation of Systems with Uncertainties,
+&lt;em&gt;Springer&lt;/em&gt;, 2011.&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
@@ -350,117 +359,98 @@ IEEE International Conference on Systems, Man and Cybernetics&lt;/em&gt;, IEEE/S
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/publications</link>
+      <title>Prix &amp; responsabilités</title>
+      <link>/prix-resp/</link>
       <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
       
-      <guid>/publications</guid>
-      <description>
+      <guid>/prix-resp/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;glyphicon glyphicon-hand-right&#34;/&gt;   Titulaire de la &lt;strong&gt;&lt;em&gt;Prime d’Excellence Scientifique depuis 2013&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;revues-internationales:480c4de99851329b51acecc000e2e84f&#34;&gt;Revues internationales&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;glyphicon glyphicon-hand-right&#34;/&gt;   Prix du &lt;strong&gt;&lt;em&gt;meilleur article théorique CIFA 2008&lt;/em&gt;&lt;/strong&gt; avec G. Videau&lt;/p&gt;
 
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, Design of interval observers for uncertain dynamical systems, Automation and
-Remote Control, to appear.&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;&lt;span class=&#34;glyphicon glyphicon-hand-right&#34;/&gt;   Prix de la &lt;strong&gt;&lt;em&gt;Meilleure Thèse d’Automatique 2003-2005&lt;/em&gt;&lt;/strong&gt; du GDR MACS&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;S. Chebotarev, D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Interval Observers for Continuous-Time LPV
-Systems with L1/L∞ performance, &lt;em&gt;Automatica&lt;/em&gt;, 57(7), 2015.&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;&lt;span class=&#34;glyphicon glyphicon-hand-right&#34;/&gt;   Prix du &lt;strong&gt;&lt;em&gt;meilleur article de session&lt;/em&gt;&lt;/strong&gt;, American Control Conference, ACC’2010.&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;D. Gucik-Derigny, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, A note on Interval Observer Design for Unknown Input
-Estimation, &lt;em&gt;International Journal of Control&lt;/em&gt;, accepted.&lt;/p&gt;&lt;/li&gt;
+&lt;hr /&gt;
 
-&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, W. Perruquetti, A. Zolghadri, Design of Interval Observers for Estimation and
-Stabilization of Discrete-Time LPV Systems, &lt;em&gt;IMA Journal of Mathematical Control and Information&lt;/em&gt;,
-accepted.&lt;/p&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Membre du comité technique d’IFAC TC 1.1 &amp;ldquo;Modeling, Identification and Signal Processing&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;R. H. Thabet, C. Combastel, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Set-membership fault detection under noisy environment
-with application to the detection of abnormal aircraft control surface positions, &lt;em&gt;International
-Journal of Control&lt;/em&gt;, accepted.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Membre de &amp;ldquo;Action Group on Interval Methods, IEEE Technical Committee on Computational Aspects of Control System Design&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;R.H. Thabet, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, C. Combastel, D. Efimov, A. Zolghadri, An effective method to interval
-observer design for time-varying systems, &lt;em&gt;Automatica&lt;/em&gt;, 50(10), 2677-2684, 2014&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Membre sénior IEEE&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;H. Rios, D. Efimov, J. Davila, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, L. Fridman, and A. Zolghadri, Robust State Estimation
-and Fault Detection and Identification for Linear Switched Systems, &lt;em&gt;International Journal of Adaptive
-Control and Signal Processing&lt;/em&gt;, 28(12), 1372-1397, 2014.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Co-organisateur (avec Vicenç Puig &amp;amp; Christophe Combastel) du numéro spécial &amp;ldquo;Set-membership Methods Applied to FDI and FTC&amp;rdquo; à paraître dans la revue &amp;ldquo;International Journal of Adaptive Control and Signal Processing&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Set Adaptive Observers for LPV Systems: Application to Fault
-Detection, &lt;em&gt;Journal of Dynamic Systems, Measurement and Control&lt;/em&gt;, 136(2), 2013.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Membre du comité éditorial des revues &amp;ldquo;American Journal of Applied Mathematics&amp;rdquo; &amp;amp; &amp;ldquo;American Journal of Aerospace Engineering&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;D. Efimov, W. Perruquetti, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, On Interval Observers for Time-Varying DiscreteTime
-Systems, &lt;em&gt;IEEE Transactions on Automatic Control&lt;/em&gt;, 58(12), Pages 3218 - 3224, 2013.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Membre du comité national d’organisation de la conférence &amp;ldquo;IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes - 9th SAFEPROCESS 2015&amp;rdquo;, Paris&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Control of nonlinear and LPV systems: interval observer-based
-framework, &lt;em&gt;IEEE Transactions on Automatic Control&lt;/em&gt;, 58(3), 2013. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 1.952&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Membre du comité d’organisation de la conférence &amp;ldquo;International Conference on Systems, Analysis and Automatic Control&amp;rdquo;, Barcelone, 2014&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, Stanislav Chebotarev, A. Zolghadri, Interval State Observer for Nonlinear Time
-Varying Systems, &lt;em&gt;Automatica&lt;/em&gt;, 49(1), Pages 200-205, 2013.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Membre du comité d’organisation du &amp;ldquo;6th International Workshop on Verification and Evaluation of Computer and Communication Systems&amp;rdquo;, Paris, 2012&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;S. Ramatou, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, D. Efimov, Actuator fault detection and diagnosis for flat systems:
-A constraint satisfaction technique, &lt;em&gt;International Journal of Applied Mathematics &amp;amp; Computer
-Science&lt;/em&gt;, 23(1), 2013. (Impact factor 2010: 0.794).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Editeur associé pour la conférence 8th IFAC Symposium on Nonlinear Control Systems (NOLCOS’2010), Bologne, Italie&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;D. Efimov, L. Fridman, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, R. Seydou, A. Zolghadri, Interval Estimation for LPV Systems
-Applying High Order Sliding Mode Techniques, &lt;em&gt;Automatica&lt;/em&gt;, 48(9), 2365-2371, 2012.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Organisateur de la session invitée &amp;ldquo;Set-membership state and parameter estimation for nonlinear systems&amp;rdquo;, 8th IFAC Symposium on Nonlinear Control Systems (NOLCOS’2010), Bologne, Italie&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Stabilisation robuste d’une classe de systèmes non linéaires incertains,
-&lt;em&gt;Journal Européen des Systèmes Automatisés&lt;/em&gt;, 46(4-5), 335-348, 2012.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Organisateur de la session invitée &amp;ldquo;Fault Detection and Isolation based on set-membership techniques&amp;rdquo;, 7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS’2009), Barcelone, Espagne&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, D. Efimov, A. Zolghadri, Interval state estimation for a class of nonlinear systems, &lt;em&gt;IEEE
-Transactions on Automatic Control&lt;/em&gt;, 57(1), 260-265, 2012. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 1.952&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Co-organisateur de la session invitée &amp;ldquo;Robust diagnosis based on set-membership techniques&amp;rdquo;, 18th IFAC World Congress Milan, Italie&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;F. Khemane, R. Malti, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, and X. Moreau, Robust estimation of fractional models in the
-frequency domain using set membership methods, &lt;em&gt;Signal Processing&lt;/em&gt;, 92(7), 1591-1601, 2012.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Co-organisateur de la session invitée &amp;ldquo;Robust estimation of uncertain systems&amp;rdquo;, 51st IEEE Conference on Decision and Control, Maui, Hawaii, 2012&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;D. Efimov, A. Zolghadri, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, Actuators Fault Detection and Compensation under Feedback
-Control, &lt;em&gt;Automatica&lt;/em&gt;, 47(8): 1699-1705, 2011. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 2.172&lt;/span&gt;)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Co-organisateur de la session invitée &amp;ldquo;Interval estimation of uncertain systems&amp;rdquo;, 52nd IEEE Conference on Decision and Control, Florence, Italie, 2013&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, Reliable amplitude and frequency estimation for biased and noisy signals, &lt;em&gt;Communications
-in Nonlinear Science and Numerical Simulation&lt;/em&gt;, 16(11): 4153-4157, 2011. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 2.698&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Co-organisateur de la session invitée &amp;ldquo;Set-membership-based techniques for robust diagnosis - I&amp;rdquo; 7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS’2015), Paris, France.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, G. Videau, A. Zolghadri, Interval observers design for consistency checks of nonlinear
-continuous-time systems, &lt;em&gt;Automatica&lt;/em&gt;, 46(3): 518-527, 2010. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 2.172&lt;/span&gt;)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Co-organisateur de la session invitée &amp;ldquo;Set-membership-based techniques for robust diagnosis - II&amp;rdquo; 7th IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes (SAFEPROCESS’2015), Paris, France&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;R. Malti, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, M. Thomassin, F. Khemane, Set membership parameter estimation of fractional
-models based on bounded frequency domain data, &lt;em&gt;Communications in Nonlinear Science and Numerical
-Simulation&lt;/em&gt;, 15(4), 927-938, 2010. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 2.698&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Co-président de la session &amp;ldquo;Robust diagnosis based on set-membership techniques&amp;rdquo;, 18th IFAC World Congress Milan, Italie&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, N. Ramdani, Y. Candau, Set membership parameter estimation in the frequency domain,
-International Journal of Control, &lt;em&gt;Automation, and Systems&lt;/em&gt;, 7(5), 2009. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 0.853&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Président de la session &amp;ldquo;Set-membership state and parameter estimation for nonlinear systems&amp;rdquo;, 8th IFAC Symposium on Nonlinear Control Systems, Bologna, Italy, 2010&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Y. Candau, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, N. Ramdani, L. Ibos, Complex interval arithmetic using polar form, &lt;em&gt;Reliable
-Computing&lt;/em&gt;, 12(1) : 1-20, 2006. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2009: 0.68&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Président de la session &amp;ldquo;Nonlinear Systems I&amp;rdquo;, European Control Conference, Budapest, Hongrie, 2009&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, N. Ramdani, Y. Candau, Bounded error moving horizon state estimator for non-linear
-continuous-time systems: application to a bioprocess system, &lt;em&gt;Journal of Process Control&lt;/em&gt;, 12(5) : 537-
-545, 2005. (&lt;span class=&#34;blue&#34;&gt;Impact factor 2010: 1.655&lt;/span&gt;)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Président de la session &amp;ldquo;Fault Detection and Isolation based on set-membership techniques&amp;rdquo;, SAFEPROCESS’2009, Barcelone, Espagne&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, L. Ibos, N. Ramdani, Y. Candau, Analyse de spectres de relaxation diélectrique par inversion
-ensembliste: une première approche, &lt;em&gt;Revue Internationale de Génie Electrique&lt;/em&gt;, Numéro spécial, 8(1):
-97-117, 2005.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Expert pour l’école doctorale de &amp;ldquo;Polytechnic University of Catalonia&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, N. Ramdani, Y. Candau, Set membership state and parameter estimation for systems
-described by non-linear differential equations, &lt;em&gt;Automatica&lt;/em&gt;, 40(10): 1771-1777, 2004. (&lt;span class=&#34;blue&#34;&gt;Impact factor
-2010: 2.172&lt;/span&gt;).&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;&lt;p&gt;Evaluateur pour la plupart des revues de référence en Automatique : Automatica, IEEE Transactions on Automatic Control, Annual Reviews of Control, European Journal of Control, International Journal of Adaptive Control and Signal Processing, Signal Processing, International Journal of Applied Mathematics and Computer Science, International Journal of Modelling, Identification and Control, Circuits Systems and Signal Processing, International Journal of Control, Journal of Process Control, JESA&lt;/p&gt;&lt;/li&gt;
 
-&lt;h1 id=&#34;articles-soumis-à-des-revues-internationales:480c4de99851329b51acecc000e2e84f&#34;&gt;Articles soumis à des revues internationales&lt;/h1&gt;
+&lt;li&gt;&lt;p&gt;Membre du Conseil du Laboratoire Cedric du Cnam&lt;/p&gt;&lt;/li&gt;
 
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;T. Raïssi&lt;/strong&gt;, M. Aoun, Robust state estimation for fractional systems, &lt;em&gt;Automatica&lt;/em&gt;, submitted.&lt;/li&gt;
-&lt;li&gt;B. Yousfi, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, M. Amairi, D. Gucik-Derigny, M. Aoun, Robust state estimation for Singularly
-Perturbed Systems, &lt;em&gt;International Journal of Control&lt;/em&gt;, revised.&lt;/li&gt;
-&lt;li&gt;S. Bezzaoucha, A. Zolghadri, D. Henry, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, Observer Design for Nonlinear Uncertain Systems:
-an Interval Multiple Models Approach, &lt;em&gt;International Journal of Control&lt;/em&gt;, submitted..&lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;&lt;p&gt;Responsable du Mastère spécialisé (label de la Conférence des Grandes Ecoles) &amp;ldquo;Systèmes Mécatroniques et Robotiques&amp;rdquo;, Cnam&lt;/p&gt;&lt;/li&gt;
 
-&lt;h1 id=&#34;chapitre-d-ouvrage-collectif:480c4de99851329b51acecc000e2e84f&#34;&gt;Chapitre d’ouvrage collectif&lt;/h1&gt;
+&lt;li&gt;&lt;p&gt;Responsable du diplôme d’ingénieur Génie Industriel, Cnam&lt;/p&gt;&lt;/li&gt;
 
-&lt;ol&gt;
-&lt;li&gt;D. Efimov, &lt;strong&gt;T. Raïssi&lt;/strong&gt;, A. Zolghadri, Robust State and Parameter Estimation for Nonlinear ContinuousTime
-Systems in a Set-Membership Context, Modeling, Design, and Simulation of Systems with Uncertainties,
-&lt;em&gt;Springer&lt;/em&gt;, 2011.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;&lt;p&gt;Membre du Conseil du département Génie Electrique et Informatique Industrielle de l’IUT Bordeaux 1, 2008-2011&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Directeur des études au département Génie Electrique et Informatique Industrielle de l’IUT Bordeaux 1, 2007-2009&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Membre d’un comité de sélection pour le recrutement d’un MCF en 61ème section, Université de Bordeaux : 61 MCF 550 (2015)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Membre d’un comité de sélection pour le recrutement d’un MCF en 61ème section, UHP, Nancy. Poste: 61-MCF-0040 (2012)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Membre d’un comité de sélection pour le recrutement d’un MCF en 61ème section, UHP, Nancy. Poste: 61-MCF-0213 (2011)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Membre d’un comité de sélection pour le recrutement d’un MCF en 61-63 èmes sections, IPB. Poste: 6163-MCF-0134 (2011)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enseignement</title>
+      <link>/teaching/</link>
+      <pubDate>Tue, 18 Nov 2014 14:06:00 -0500</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;glyphicon glyphicon-hand-right&#34;/&gt; Commande des systèmes linéaires&lt;br /&gt;
+&lt;span class=&#34;glyphicon glyphicon-hand-right&#34;/&gt; commande des systèmes à temps discret&lt;br /&gt;
+&lt;span class=&#34;glyphicon glyphicon-hand-right&#34;/&gt; Commande temps réel - systèmes multi-tâches&lt;br /&gt;
+&lt;span class=&#34;glyphicon glyphicon-hand-right&#34;/&gt; Programmation des robots industriels&lt;br /&gt;
+&lt;span class=&#34;glyphicon glyphicon-hand-right&#34;/&gt; Programmation des micro-contrôleurs&lt;/p&gt;
 </description>
     </item>
     
